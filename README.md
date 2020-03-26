@@ -228,6 +228,10 @@ Jupyter notebook & Jypyter lab
 
 [(03/26/20) [7 Kyu] Alternate capitalization](./Python/200326/OnedayCoding.md)  
 
+[(03/27/20) [6 Kyu] More Zeros than Ones](./Python/200327/OnedayCoding.md)  
+
+
+
 ### C Log  
 
 <details>  
