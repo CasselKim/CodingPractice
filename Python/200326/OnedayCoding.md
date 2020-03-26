@@ -1,6 +1,6 @@
 # [[7 Kyu] Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/python)
 
-![image](./Problem.png)
+![image](./problem.png)
 
 
 ## Instructions
