@@ -230,6 +230,7 @@ Jupyter notebook & Jypyter lab
 <details>  
 <summary>September/2019</summary>  
 <div markdown="1">  
+
 [(09/06/19) [8 Kyu] A Needle in the Haystack](./C/190906/OnedayCoding.md)  
 
 [(09/06/19) [8 Kyu] Even or Odd](./C/190906-2/OnedayCoding.md)  
