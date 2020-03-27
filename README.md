@@ -230,6 +230,8 @@ Jupyter notebook & Jypyter lab
 
 [(03/27/20) [6 Kyu] More Zeros than Ones](./Python/200327/OnedayCoding.md)  
 
+[(03/28/20) [6 Kyu] Are they the "same"?](./Python/200328/OnedayCoding.md)  
+
 
 
 ### C Log  
