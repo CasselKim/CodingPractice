@@ -232,6 +232,8 @@ Jupyter notebook & Jypyter lab
 
 [(03/28/20) [6 Kyu] Are they the "same"?](./Python/200328/OnedayCoding.md)  
 
+[(03/29/20) [7 Kyu] Geometry Basics: Dot Product in 3D](./Python/200329/OnedayCoding.md)  
+
 
 
 ### C Log  
