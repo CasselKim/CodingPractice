@@ -234,6 +234,8 @@ Jupyter notebook & Jypyter lab
 
 [(03/29/20) [7 Kyu] Geometry Basics: Dot Product in 3D](./Python/200329/OnedayCoding.md)  
 
+[(03/30/20) [6 Kyu] Difference of 2](./Python/200330/OnedayCoding.md)  
+
 
 
 ### C Log  
