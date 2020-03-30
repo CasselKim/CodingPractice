@@ -47,9 +47,12 @@ Jupyter notebook & Jypyter lab
 ### Python Log
 
 <details>  
+<summary>2019</summary>  
+<div markdown="1">  
+
+<details>  
 <summary>July/2019</summary>  
 <div markdown="1">    
-
 [(07/10/19) [8 kyu] Beginner - Lost Without a Map](./Python/190710/Lost_Without_a_Map.md)
 
 [(07/11/19) [7 kyu] Average Array](./Python/190711/OnedayCoding.md)
@@ -226,6 +229,13 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+</div>  
+</details>  
+
+<details>  
+<summary>March/2020</summary>  
+<div markdown="1">  
+
 [(03/26/20) [7 Kyu] Alternate capitalization](./Python/200326/OnedayCoding.md)  
 
 [(03/27/20) [6 Kyu] More Zeros than Ones](./Python/200327/OnedayCoding.md)  
@@ -236,9 +246,20 @@ Jupyter notebook & Jypyter lab
 
 [(03/30/20) [6 Kyu] Difference of 2](./Python/200330/OnedayCoding.md)  
 
+[(03/31/20) [6 Kyu] PI approximation](./Python/200331/OnedayCoding.md)  
+
+</div>  
+</details>  
+
+
+
 
 
 ### C Log  
+
+<details>  
+<summary>2019</summary>  
+<div markdown="1">  
 
 <details>  
 <summary>September/2019</summary>  
@@ -366,7 +387,14 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+</div>  
+</details>  
+
 ### C ++ Log  
+
+<details>  
+<summary>2019</summary>  
+<div markdown="1">  
 
 <details>  
 <summary>September/2019</summary>  
@@ -385,3 +413,5 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+</div>  
+</details>  
