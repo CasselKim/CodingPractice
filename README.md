@@ -251,6 +251,8 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+[(04/01/20) [6 Kyu] Rainfall](./Python/200401/OnedayCoding.md)  
+
 
 
 
