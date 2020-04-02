@@ -42,6 +42,8 @@ Jupyter notebook & Jypyter lab
 
 [Dynamic Array](HackerRank/DynamicArray.md)
 
+[LeftRotation](HackerRank/LeftRotation.md)  
+
 　  
 
 ## Codewars
