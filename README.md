@@ -28,21 +28,19 @@ Jupyter notebook & Jypyter lab
 
 ### The HackerRank Interview Preparation Kit
 
-#### Warm-up Challenges
+[Sock Merchant](HackerRank/SockMerchant/SockMerchant.md)
 
-[Sock Merchant](HackerRank/warm-up_challenges/SockMerchant.md)
+[Simple Array Sum](HackerRank/SimpleArray/SimpleArray.md)  　  
 
-[Simple Array Sum](HackerRank/warm-up_challenges/SimpleArray.md)  　  
+[Compare the Triplets](HackerRank/CompareTriplets/CompareTriplets.md)  　  
 
-[Compare the Triplets](HackerRank/warm-up_challenges/CompareTriplets.md)  　  
+[2D Array - DS](HackerRank/2DArrayDS/2DArrayDS.md)  　  
 
-[2D Array - DS](HackerRank/arrays/2DArrayDS.md)  　  
+[Arrays - DS](HackerRank/ArrayDS/ArrayDS.md)  　  
 
-[Arrays - DS](HackerRank/arrays/ArrayDS.md)  　  
+[Dynamic Array](HackerRank/DynamicArray/DynamicArray.md)
 
-[Dynamic Array](HackerRank/DynamicArray.md)
-
-[LeftRotation](HackerRank/LeftRotation.md)  
+[LeftRotation](HackerRank/LeftRotation/LeftRotation.md)  
 
 　  
 
