@@ -40,6 +40,8 @@ Jupyter notebook & Jypyter lab
 
 [Arrays - DS](HackerRank/arrays/ArrayDS.md)  　  
 
+[Dynamic Array](HackerRank/DynamicArray.md)
+
 　  
 
 ## Codewars
