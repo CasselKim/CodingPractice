@@ -42,6 +42,8 @@ Jupyter notebook & Jypyter lab
 
 [LeftRotation](HackerRank/LeftRotation/LeftRotation.md)  
 
+[SparseArrays](HackerRank/SparseArrays/SparseArrays.md)  
+
 　  
 
 ## Codewars
