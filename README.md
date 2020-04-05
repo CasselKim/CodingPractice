@@ -257,7 +257,7 @@ Jupyter notebook & Jypyter lab
 
 [(04/01/20) [6 Kyu] Rainfall](./Python/200401/OnedayCoding.md)  
 
-
+[(04/04/20) [7 Kyu] Find the area of the rectangle!](./Python/200404/OnedayCoding.md)  
 
 
 
