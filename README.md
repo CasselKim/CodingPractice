@@ -261,6 +261,10 @@ Jupyter notebook & Jypyter lab
 
 [(04/06/20) [6 Kyu] Simplify the number!](./Python/200406/OnedayCoding.md)  
 
+[(04/07/20) [7 Kyu] What dominates your array?](./Python/200407/OnedayCoding.md)  
+
+
+
 ​    
 
 ### C Log  
