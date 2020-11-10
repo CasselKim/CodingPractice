@@ -25,6 +25,7 @@ Jupyter notebook & Jypyter lab
 　  
 
 ## HackerRank
+(토글 버튼을 누르면 리스트가 팝업됩니다)  
 
 ### The HackerRank Interview Preparation Kit
 
