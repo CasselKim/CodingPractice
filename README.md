@@ -44,7 +44,9 @@ Jupyter notebook & Jypyter lab
 
 [SparseArrays](HackerRank/SparseArrays/SparseArrays.md)  
 
-[JumpingOnTheClouds](HackerRank//JumpingOnTheClouds/JumpingOnTheClouds.md)
+[JumpingOnTheClouds](HackerRank/JumpingOnTheClouds/JumpingOnTheClouds.md)
+
+[Runner-Up](HackerRank/Runner-Up/Runner-Up.md)
 
 　  
 
