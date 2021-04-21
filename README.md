@@ -52,6 +52,8 @@ Jupyter notebook & Jypyter lab
 
 [Nested Lists](HackerRank/NestedLists/NestedLists.md)
 
+[Finding the percentage](HackerRank/FindingThePercentage/FindingThePercentage.md)
+
 　  
 
 ## Codewars
