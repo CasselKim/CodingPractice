@@ -44,9 +44,13 @@ Jupyter notebook & Jypyter lab
 
 [SparseArrays](HackerRank/SparseArrays/SparseArrays.md)  
 
+### Python
+
 [JumpingOnTheClouds](HackerRank/JumpingOnTheClouds/JumpingOnTheClouds.md)
 
 [Runner-Up](HackerRank/Runner-Up/Runner-Up.md)
+
+[Nested Lists](HackerRank/NestedLists/NestedLists.md)
 
 　  
 
