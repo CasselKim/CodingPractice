@@ -52,7 +52,9 @@ Jupyter notebook & Jypyter lab
 
 [Nested Lists](HackerRank/NestedLists/NestedLists.md)
 
-[Finding the percentage](HackerRank/FindingThePercentage/FindingThePercentage.md)
+[Finding the percentage](HackerRank/FindingThePercentage/FindingThePercentage.md)  
+
+[Lists](HackerRank/Lists/Lists.md)
 
 　  
 
