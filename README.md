@@ -56,6 +56,8 @@ Jupyter notebook & Jypyter lab
 
 [Lists](HackerRank/Lists/Lists.md)
 
+[Tuples](HackerRank/Tuples/Tuples.md)
+
 　  
 
 ## Codewars
