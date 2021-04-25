@@ -58,6 +58,8 @@ Jupyter notebook & Jypyter lab
 
 [Tuples](HackerRank/Tuples/Tuples.md)
 
+[Introduction to sets](HackerRank/IntroductionToSets/IntroductionToSets.md)
+
 　  
 
 ## Codewars
