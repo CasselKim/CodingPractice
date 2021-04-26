@@ -60,6 +60,8 @@ Jupyter notebook & Jypyter lab
 
 [Introduction to sets](HackerRank/IntroductionToSets/IntroductionToSets.md)
 
+[sWAP cASE](HackerRank/sWAPcASE/sWAPcASE.md)
+
 　  
 
 ## Codewars
