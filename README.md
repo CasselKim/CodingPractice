@@ -64,7 +64,9 @@ Jupyter notebook & Jypyter lab
 
 [String Split And Join](HackerRank/StringSplitAndJoin/StringSplitAndJoin.md)  
 
-[What'sYour Name](HackerRank/What'sYourName/What'sYourName.md)
+[What'sYour Name](HackerRank/What'sYourName/What'sYourName.md)  
+
+[Mutations](HackerRank/Mutations/Mutations.md)
 
 　  
 
