@@ -70,7 +70,11 @@ Jupyter notebook & Jypyter lab
 
 [Find a String](HackerRank/FindAString/FindAString.md)  
 
-　  
+[String Validators](HackerRank/StringValidators/StringValidators.md)  
+
+
+
+　  　    
 
 ## Codewars
 
