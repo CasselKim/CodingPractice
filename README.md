@@ -66,7 +66,9 @@ Jupyter notebook & Jypyter lab
 
 [What'sYour Name](HackerRank/What'sYourName/What'sYourName.md)  
 
-[Mutations](HackerRank/Mutations/Mutations.md)
+[Mutations](HackerRank/Mutations/Mutations.md)  
+
+[Find a String](HackerRank/FindAString/FindAString.md)  
 
 　  
 
