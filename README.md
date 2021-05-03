@@ -72,6 +72,8 @@ Jupyter notebook & Jypyter lab
 
 [String Validators](HackerRank/StringValidators/StringValidators.md)  
 
+[Text Alignment](HackerRank/TextAlignment/TextAlignment.md)  
+
 
 
 　  　    
