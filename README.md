@@ -74,6 +74,8 @@ Jupyter notebook & Jypyter lab
 
 [Text Alignment](HackerRank/TextAlignment/TextAlignment.md)  
 
+[TextWrap](HackerRank/TextWrap/TextWrap.md)  
+
 
 
 　  　    
