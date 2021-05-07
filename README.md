@@ -78,6 +78,8 @@ Jupyter notebook & Jypyter lab
 
 [Designer Door Mat](HackerRank/DesignerDoorMat/DesignerDoorMat.md)  
 
+[String Formatting](HackerRank/StringFormatting/StringFormatting.md)  
+
 
 
 　  　    
