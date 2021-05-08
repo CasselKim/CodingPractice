@@ -80,6 +80,8 @@ Jupyter notebook & Jypyter lab
 
 [String Formatting](HackerRank/StringFormatting/StringFormatting.md)  
 
+[Capitalize](HackerRank/Capitalize/Capitalize.md)  
+
 
 
 　  　    
