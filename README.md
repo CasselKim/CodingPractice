@@ -86,6 +86,8 @@ Jupyter notebook & Jypyter lab
 
 [Alphabet Rangoli](HackerRank/AlphabetRangoli/AlphabetRangoli.md)  
 
+[itertools Product](HackerRank/itertoolsProduct/itertoolsProduct.md)  
+
 
 
 　  　    
