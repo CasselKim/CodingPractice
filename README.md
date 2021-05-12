@@ -88,6 +88,8 @@ Jupyter notebook & Jypyter lab
 
 [itertools Product](HackerRank/itertoolsProduct/itertoolsProduct.md)  
 
+[itertools Permutations](HackerRank/itertoolsPermutations/itertoolsPermutations.md)  
+
 
 
 　  　    
