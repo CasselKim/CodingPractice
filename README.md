@@ -90,6 +90,8 @@ Jupyter notebook & Jypyter lab
 
 [itertools Permutations](HackerRank/itertoolsPermutations/itertoolsPermutations.md)  
 
+[collections Counter](HackerRank/collectionsCounter/collectionsCounter.md)  
+
 
 
 　  　    
