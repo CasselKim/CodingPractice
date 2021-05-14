@@ -92,6 +92,8 @@ Jupyter notebook & Jypyter lab
 
 [collections Counter](HackerRank/collectionsCounter/collectionsCounter.md)  
 
+[itertools Combinations](HackerRank/itertoolsCombinations/itertoolsCombinations.md)  
+
 
 
 　  　    
