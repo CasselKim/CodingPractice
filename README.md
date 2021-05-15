@@ -94,6 +94,8 @@ Jupyter notebook & Jypyter lab
 
 [itertools Combinations](HackerRank/itertoolsCombinations/itertoolsCombinations.md)  
 
+[Calendar Module](HackerRank/CalendarModule/CalendarModule.md)  
+
 
 
 　  　    
