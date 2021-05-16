@@ -38,4 +38,19 @@ print(average)
 
 
 
+```python
+# 4 line code
+import sys
+from collections import namedtuple
+
+table = [list(filter(lambda x : x,sys.stdin.readline().replace('\n','').split(' '))) for _ in range(int(sys.stdin.readline())+1)]
+Student = namedtuple('Student',table[0])
+print('%.2f'%(sum([int(Student(*table[i]).MARKS) for i in range(1,len(table))])/(len(table)-1)))
+```
+
+* Time Complexity : O(n)
+* Space Complexity : O(n)
+
+
+
 ### The things I got
