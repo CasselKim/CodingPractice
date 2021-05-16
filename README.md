@@ -96,6 +96,8 @@ Jupyter notebook & Jypyter lab
 
 [Calendar Module](HackerRank/CalendarModule/CalendarModule.md)  
 
+[Collections Namedtuple](HackerRank/CollectionsNamedtuple/CollectionsNamedtuple.md)  
+
 
 
 　  　    
