@@ -102,6 +102,8 @@ Jupyter notebook & Jypyter lab
 
 [ModDivmod](HackerRank/ModDivmod/ModDivmod.md)  
 
+[MinAndMax](HackerRank/MinAndMax/MinAndMax.md)  
+
 　  　    
 
 ## Codewars
