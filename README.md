@@ -104,6 +104,8 @@ Jupyter notebook & Jypyter lab
 
 [MinAndMax](HackerRank/MinAndMax/MinAndMax.md)  
 
+[Zipped](HackerRank/Zipped/Zipped.md)  
+
 　  　    
 
 ## Codewars
