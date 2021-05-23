@@ -106,6 +106,8 @@ Jupyter notebook & Jypyter lab
 
 [Zipped](HackerRank/Zipped/Zipped.md)  
 
+[Input()](HackerRank/Input/Input.md)  
+
 　  　    
 
 ## Codewars
