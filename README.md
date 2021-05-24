@@ -108,6 +108,8 @@ Jupyter notebook & Jypyter lab
 
 [Input()](HackerRank/Input/Input.md)  
 
+[TheMinionGame](HackerRank/TheMinionGame/TheMinionGame.md)  
+
 　  　    
 
 ## Codewars
