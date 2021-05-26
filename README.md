@@ -110,6 +110,10 @@ Jupyter notebook & Jypyter lab
 
 [TheMinionGame](HackerRank/TheMinionGame/TheMinionGame.md)  
 
+[DefaultDict Tutorial](HackerRank/DefaultDictTutorial/DefaultDictTutorial.md)  
+
+[Exceptions](HackerRank/Exceptions/Exceptions.md)  
+
 　  　    
 
 ## Codewars
