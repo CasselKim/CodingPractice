@@ -114,6 +114,8 @@ Jupyter notebook & Jypyter lab
 
 [Exceptions](HackerRank/Exceptions/Exceptions.md)  
 
+[Merge the Tools](HackerRank/MergetheTools/MergetheTools.md)  
+
 　  　    
 
 ## Codewars
