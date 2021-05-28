@@ -116,6 +116,8 @@ Jupyter notebook & Jypyter lab
 
 [Merge the Tools](HackerRank/MergetheTools/MergetheTools.md)  
 
+[Set.union Operation](HackerRank/SetUnionOperation/SetUnionOperation.md)  
+
 　  　    
 
 ## Codewars
