@@ -122,6 +122,8 @@ Jupyter notebook & Jypyter lab
 
 [Incorrect Regex](HackerRank/IncorrectRegex/IncorrectRegex.md)  
 
+[Symmetric Difference](HackerRank/SymmetricDifference/SymmetricDifference.md)  
+
 　  　    
 
 ## Codewars
