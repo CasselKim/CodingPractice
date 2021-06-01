@@ -124,6 +124,8 @@ Jupyter notebook & Jypyter lab
 
 [Symmetric Difference](HackerRank/SymmetricDifference/SymmetricDifference.md)  
 
+[Set.add()](HackerRank/SetAdd/SetAdd.md)  
+
 　  　    
 
 ## Codewars
