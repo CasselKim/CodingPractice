@@ -126,6 +126,8 @@ Jupyter notebook & Jypyter lab
 
 [Set.add()](HackerRank/SetAdd/SetAdd.md)  
 
+[Set.discard(),remove() and pop()](HackerRank/SetDiscard/SetDiscard.md)  
+
 　  　    
 
 ## Codewars
