@@ -128,6 +128,8 @@ Jupyter notebook & Jypyter lab
 
 [Set.discard(),remove() and pop()](HackerRank/SetDiscard/SetDiscard.md)  
 
+[Time Delta](HackerRank/TimeDelta/TimeDelta.md)
+
 　  　    
 
 ## Codewars
