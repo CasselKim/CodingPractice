@@ -132,6 +132,8 @@ Jupyter notebook & Jypyter lab
 
 [Find Angle MBC](HackerRank/FindAngleMBC/FindAngleMBC.md)  
 
+[TriangleQuest2](HackerRank/TriangleQuest2/TriangleQuest2.md)  
+
 　  　    
 
 ## Codewars
