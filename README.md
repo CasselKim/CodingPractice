@@ -134,6 +134,8 @@ Jupyter notebook & Jypyter lab
 
 [TriangleQuest2](HackerRank/TriangleQuest2/TriangleQuest2.md)  
 
+[NoIdea](HackerRank/NoIdea/NoIdea.md)  
+
 　  　    
 
 ## Codewars
