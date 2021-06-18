@@ -136,6 +136,8 @@ Jupyter notebook & Jypyter lab
 
 [NoIdea](HackerRank/NoIdea/NoIdea.md)  
 
+[itertools.combinations_with_replacement()](HackerRank/itertoolsCombinations_with_replacement/itertoolsCombinations_with_replacement.md)  
+
 　  　    
 
 ## Codewars
