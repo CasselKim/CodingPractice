@@ -138,6 +138,8 @@ Jupyter notebook & Jypyter lab
 
 [itertools.combinations_with_replacement()](HackerRank/itertoolsCombinations_with_replacement/itertoolsCombinations_with_replacement.md)  
 
+[CollectionsDeque](HackerRank/CollectionsDeque/CollectionsDeque.md)  
+
 　  　    
 
 ## Codewars
