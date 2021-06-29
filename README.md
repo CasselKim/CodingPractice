@@ -140,6 +140,8 @@ Jupyter notebook & Jypyter lab
 
 [CollectionsDeque](HackerRank/CollectionsDeque/CollectionsDeque.md)  
 
+[Setintersection Operation](HackerRank/Setintersection Operation/Setintersection Operation.md)  
+
 　  　    
 
 ## Codewars
