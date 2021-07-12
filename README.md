@@ -144,6 +144,8 @@ Jupyter notebook & Jypyter lab
 
 [PowerModPower](HackerRank/PowerModPower/PowerModPower.md)  
 
+[Set.difference() Operation](HackerRank/SetDifferenceOperation/SetDifferenceOperation.md)  
+
 　  　    
 
 ## Codewars
