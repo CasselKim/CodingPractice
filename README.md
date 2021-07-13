@@ -146,6 +146,8 @@ Jupyter notebook & Jypyter lab
 
 [Set.difference() Operation](HackerRank/SetDifferenceOperation/SetDifferenceOperation.md)  
 
+[IntegersComeInAllSizes](HackerRank/IntegersComeInAllSizes/IntegersComeInAllSizes.md)  
+
 　  　    
 
 ## Codewars
