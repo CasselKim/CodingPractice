@@ -148,6 +148,8 @@ Jupyter notebook & Jypyter lab
 
 [IntegersComeInAllSizes](HackerRank/IntegersComeInAllSizes/IntegersComeInAllSizes.md)  
 
+[The Captain's Room](HackerRank/TheCaptainsRoom/TheCaptainsRoom.md)  
+
 　  　    
 
 ## Codewars
