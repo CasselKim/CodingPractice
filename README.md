@@ -150,6 +150,8 @@ Jupyter notebook & Jypyter lab
 
 [The Captain's Room](HackerRank/TheCaptainsRoom/TheCaptainsRoom.md)  
 
+[CheckSubset](HackerRank/CheckSubset/CheckSubset.md)  
+
 　  　    
 
 ## Codewars
