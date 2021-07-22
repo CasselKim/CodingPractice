@@ -152,6 +152,8 @@ Jupyter notebook & Jypyter lab
 
 [CheckSubset](HackerRank/CheckSubset/CheckSubset.md)  
 
+[Set .symmetric_difference() Operation](HackerRank/Setsymmetric_differenceOperation/Setsymmetric_differenceOperation.md)  
+
 　  　    
 
 ## Codewars
