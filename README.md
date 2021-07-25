@@ -154,6 +154,8 @@ Jupyter notebook & Jypyter lab
 
 [Set .symmetric_difference() Operation](HackerRank/Setsymmetric_differenceOperation/Setsymmetric_differenceOperation.md)  
 
+[SetMutations](HackerRank/SetMutations/SetMutations.md)  
+
 　  　    
 
 ## Codewars
