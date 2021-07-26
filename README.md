@@ -156,6 +156,8 @@ Jupyter notebook & Jypyter lab
 
 [SetMutations](HackerRank/SetMutations/SetMutations.md)  
 
+[Piling Up!](HackerRank/PilingUp/PilingUp.md)   
+
 　  　    
 
 ## Codewars
