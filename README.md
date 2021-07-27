@@ -158,6 +158,8 @@ Jupyter notebook & Jypyter lab
 
 [Piling Up!](HackerRank/PilingUp/PilingUp.md)   
 
+[Python Evaluation](HackerRank/PythonEvaluation/PythonEvaluation.md)  
+
 　  　    
 
 ## Codewars
