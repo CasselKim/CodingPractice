@@ -160,6 +160,8 @@ Jupyter notebook & Jypyter lab
 
 [Python Evaluation](HackerRank/PythonEvaluation/PythonEvaluation.md)  
 
+[Find the Torsional Angle](HackerRank/FindtheTorsionalAngle/FindtheTorsionalAngle.md)  
+
 　  　    
 
 ## Codewars
