@@ -164,6 +164,8 @@ Jupyter notebook & Jypyter lab
 
 [Word Order](HackerRank/WordOrder/WordOrder.md)  
 
+[Compress The String](HackerRank/CompressTheString/CompressTheString.md)  
+
 　  　    
 
 ## Codewars
