@@ -166,6 +166,8 @@ Jupyter notebook & Jypyter lab
 
 [Compress The String](HackerRank/CompressTheString/CompressTheString.md)  
 
+[Company Logo](HackerRank/CompanyLogo/CompanyLogo.md)  
+
 　  　    
 
 ## Codewars
