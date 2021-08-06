@@ -172,6 +172,8 @@ Jupyter notebook & Jypyter lab
 
 [Check Strict Superset](HackerRank/CheckStrictSuperset/CheckStrictSuperset.md)  
 
+[Maximize it!](HackerRank/MaximizeIT/MaximizeIT.md)  
+
 　  　    
 
 ## Codewars
