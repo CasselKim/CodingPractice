@@ -170,6 +170,8 @@ Jupyter notebook & Jypyter lab
 
 [Iterables and Iterators](HackerRank/IterablesAndIterators/IterablesAndIterators.md)  
 
+[Check Strict Superset](HackerRank/CheckStrictSuperset/CheckStrictSuperset.md)  
+
 　  　    
 
 ## Codewars
