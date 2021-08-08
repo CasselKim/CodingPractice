@@ -174,6 +174,8 @@ Jupyter notebook & Jypyter lab
 
 [Maximize it!](HackerRank/MaximizeIT/MaximizeIT.md)  
 
+[Triangle Quest](HackerRank/TriangleQuest/TriangleQuest.md)  
+
 　  　    
 
 ## Codewars
