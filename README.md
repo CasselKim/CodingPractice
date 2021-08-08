@@ -176,6 +176,8 @@ Jupyter notebook & Jypyter lab
 
 [Triangle Quest](HackerRank/TriangleQuest/TriangleQuest.md)  
 
+[Classes: Dealing with Complex Numbers](HackerRank/ClassesDealingwithComplexNumbers/ClassesDealingwithComplexNumbers.md)  
+
 　  　    
 
 ## Codewars
