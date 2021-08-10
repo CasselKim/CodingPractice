@@ -178,6 +178,8 @@ Jupyter notebook & Jypyter lab
 
 [Classes: Dealing with Complex Numbers](HackerRank/ClassesDealingwithComplexNumbers/ClassesDealingwithComplexNumbers.md)  
 
+[Any or All](HackerRank/AnyorAll/AnyorAll.md)  
+
 　  　    
 
 ## Codewars
