@@ -180,6 +180,8 @@ Jupyter notebook & Jypyter lab
 
 [Any or All](HackerRank/AnyorAll/AnyorAll.md)  
 
+[ginortS](HackerRank/ginortS/ginortS.md)  
+
 　  　    
 
 ## Codewars
