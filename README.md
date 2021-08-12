@@ -184,6 +184,8 @@ Jupyter notebook & Jypyter lab
 
 [Detect Floating Point Number](HackerRank/DetectFloatingPointNumber/DetectFloatingPointNumber.md)  
 
+[re.split()](HackerRank/reSplit/reSplit.md)  
+
 　  　    
 
 ## Codewars
