@@ -182,6 +182,8 @@ Jupyter notebook & Jypyter lab
 
 [ginortS](HackerRank/ginortS/ginortS.md)  
 
+[Detect Floating Point Number](HackerRank/DetectFloatingPointNumber/DetectFloatingPointNumber.md)  
+
 　  　    
 
 ## Codewars
