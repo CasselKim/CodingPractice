@@ -186,6 +186,8 @@ Jupyter notebook & Jypyter lab
 
 [re.split()](HackerRank/reSplit/reSplit.md)  
 
+[Map and Lambda function](HackerRank/MapandLambdafunction/MapandLambdafunction.md)  
+
 　  　    
 
 ## Codewars
