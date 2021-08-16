@@ -188,6 +188,8 @@ Jupyter notebook & Jypyter lab
 
 [Map and Lambda function](HackerRank/MapandLambdafunction/MapandLambdafunction.md)  
 
+[Hex Color Code](HackerRank/HexColorCode/HexColorCode.md)  
+
 　  　    
 
 ## Codewars
