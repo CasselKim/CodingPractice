@@ -190,6 +190,8 @@ Jupyter notebook & Jypyter lab
 
 [Hex Color Code](HackerRank/HexColorCode/HexColorCode.md)  
 
+[GroupGroupsGroupdict](HackerRank/GroupGroupsGroupdict/GroupGroupsGroupdict.md)  
+
 　  　    
 
 ## Codewars
