@@ -192,6 +192,8 @@ Jupyter notebook & Jypyter lab
 
 [GroupGroupsGroupdict](HackerRank/GroupGroupsGroupdict/GroupGroupsGroupdict.md)  
 
+[Validating Roman Numerals](HackerRank/ValidatingRomanNumerals/ValidatingRomanNumerals.md)  
+
 　  　    
 
 ## Codewars
