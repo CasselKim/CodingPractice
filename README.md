@@ -202,6 +202,8 @@ Jupyter notebook & Jypyter lab
 
 [Validating Phone Numbers](HackerRank/ValidatingPhoneNumbers/ValidatingPhoneNumbers.md)  
 
+[ValidatingandParsingEmailAddresses](HackerRank/ValidatingandParsingEmailAddresses/ValidatingandParsingEmailAddresses.md)  
+
 　  　    
 
 ## Codewars
