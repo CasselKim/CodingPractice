@@ -204,6 +204,8 @@ Jupyter notebook & Jypyter lab
 
 [ValidatingandParsingEmailAddresses](HackerRank/ValidatingandParsingEmailAddresses/ValidatingandParsingEmailAddresses.md)  
 
+[Decorators 2 - Name Directory](HackerRank/Decorators2NameDirectory/Decorators2NameDirectory.md)  
+
 　  　    
 
 ## Codewars
