@@ -210,6 +210,8 @@ Jupyter notebook & Jypyter lab
 
 [HTML Parser - Part 2](HackerRank/HTMLParserPart2/HTMLParserPart2.md)    
 
+[Detect HTML Tags, Attributes and Attribute Values](HackerRank/DetectHTMLTagsAttributesandAttributeValues/DetectHTMLTagsAttributesandAttributeValues.md)  
+
 　  　    
 
 ## Codewars
