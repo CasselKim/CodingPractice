@@ -212,6 +212,8 @@ Jupyter notebook & Jypyter lab
 
 [Detect HTML Tags, Attributes and Attribute Values](HackerRank/DetectHTMLTagsAttributesandAttributeValues/DetectHTMLTagsAttributesandAttributeValues.md)  
 
+[Validating Email Addresses With a Filter](HackerRank/ValidatingEmailAddressesWithaFilter/ValidatingEmailAddressesWithaFilter.md)  
+
 　  　    
 
 ## Codewars
