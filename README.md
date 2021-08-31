@@ -214,6 +214,8 @@ Jupyter notebook & Jypyter lab
 
 [Validating Email Addresses With a Filter](HackerRank/ValidatingEmailAddressesWithaFilter/ValidatingEmailAddressesWithaFilter.md)  
 
+[Arrays](HackerRank/Arrays/Arrays.md)  
+
 　  　    
 
 ## Codewars
