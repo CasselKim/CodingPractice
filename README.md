@@ -216,6 +216,8 @@ Jupyter notebook & Jypyter lab
 
 [Arrays](HackerRank/Arrays/Arrays.md)  
 
+[XML 1 - Find the Score](HackerRank/XML1FindtheScore/XML1FindtheScore.md)  
+
 　  　    
 
 ## Codewars
