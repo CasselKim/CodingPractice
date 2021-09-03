@@ -218,6 +218,8 @@ Jupyter notebook & Jypyter lab
 
 [XML 1 - Find the Score](HackerRank/XML1FindtheScore/XML1FindtheScore.md)  
 
+[XML2 - Find the Maximum Depth](HackerRank/XML2FindtheMaximumDepth/XML2FindtheMaximumDepth.md)  
+
 　  　    
 
 ## Codewars
