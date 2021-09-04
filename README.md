@@ -222,6 +222,8 @@ Jupyter notebook & Jypyter lab
 
 [Athlete Sort](HackerRank/AthleteSort/AthleteSort.md)  
 
+[Dot and Cross](HackerRank/DotandCross/DotandCross.md)  
+
 　  　    
 
 ## Codewars
