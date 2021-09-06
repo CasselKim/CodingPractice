@@ -224,6 +224,8 @@ Jupyter notebook & Jypyter lab
 
 [Dot and Cross](HackerRank/DotandCross/DotandCross.md)  
 
+[Standardize Mobile Number Using Decorators](HackerRank/StandardizeMobileNumberUsingDecorators/StandardizeMobileNumberUsingDecorators.md)  
+
 　  　    
 
 ## Codewars
