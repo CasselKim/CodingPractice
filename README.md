@@ -226,6 +226,8 @@ Jupyter notebook & Jypyter lab
 
 [Standardize Mobile Number Using Decorators](HackerRank/StandardizeMobileNumberUsingDecorators/StandardizeMobileNumberUsingDecorators.md)  
 
+[Reduce Function](HackerRank/ReduceFunction/ReduceFunction.md)  
+
 　  　    
 
 ## Codewars
