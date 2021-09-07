@@ -228,6 +228,8 @@ Jupyter notebook & Jypyter lab
 
 [Reduce Function](HackerRank/ReduceFunction/ReduceFunction.md)  
 
+[Regex Substitution](HackerRank/RegexSubstitution/RegexSubstitution.md)  
+
 　  　    
 
 ## Codewars
