@@ -230,6 +230,8 @@ Jupyter notebook & Jypyter lab
 
 [Regex Substitution](HackerRank/RegexSubstitution/RegexSubstitution.md)  
 
+[Shape and Reshape](HackerRank/ShapeAndReshape/ShapeAndReshape.md)  
+
 　  　    
 
 ## Codewars
