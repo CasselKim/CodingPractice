@@ -232,6 +232,8 @@ Jupyter notebook & Jypyter lab
 
 [Shape and Reshape](HackerRank/ShapeAndReshape/ShapeAndReshape.md)  
 
+[Transpose And Flatten](hackerRank/TransposeAndFlatten/TransposeAndFlatten.md)  
+
 　  　    
 
 ## Codewars
