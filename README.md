@@ -234,6 +234,8 @@ Jupyter notebook & Jypyter lab
 
 [Transpose And Flatten](hackerRank/TransposeAndFlatten/TransposeAndFlatten.md)  
 
+[ZerosAndOnes](HackerRank/ZerosAndOnes/ZerosAndOnes.md)  
+
 　  　    
 
 ## Codewars
