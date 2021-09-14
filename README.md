@@ -236,6 +236,8 @@ Jupyter notebook & Jypyter lab
 
 [ZerosAndOnes](HackerRank/ZerosAndOnes/ZerosAndOnes.md)  
 
+[Validating UID](HackerRank/ValidatingUID/ValidatingUID.md)  
+
 　  　    
 
 ## Codewars
