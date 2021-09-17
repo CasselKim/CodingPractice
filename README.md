@@ -140,7 +140,7 @@ Jupyter notebook & Jypyter lab
 
 [CollectionsDeque](HackerRank/CollectionsDeque/CollectionsDeque.md)  
 
-[Set.intersection() Operation](HackerRank/Setintersection Operation/Setintersection Operation.md)  
+[Set.intersection() Operation](HackerRank/SetintersectionOperation/SetintersectionOperation.md)  
 
 [PowerModPower](HackerRank/PowerModPower/PowerModPower.md)  
 
