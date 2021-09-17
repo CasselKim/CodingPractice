@@ -1,4 +1,4 @@
-# [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)
+# [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
 
 ![image](Problem.png)
 
@@ -7,14 +7,23 @@
 ### My Answer
 
 ```python
-n, integers = input(), input().split(' ')
-cond1 = all([int(x)>0 for x in integers])
-cond2 = any([x==x[::-1] for x in integers])
-print(cond1 and cond2)
+import numpy as np
+
+N,M = [int(x) for x in input().split(' ')]
+
+A = np.array([[int(x) for x in input().split(' ')] for _ in range(N)])
+B = np.array([[int(x) for x in input().split(' ')] for _ in range(N)])
+
+print(A+B)
+print(A-B)
+print(A*B)
+print(A//B)
+print(A%B)
+print(A**B)
 ```
 
 * Time Complexity : O(2n)
-* Space Complexity : O(n)
+* Space Complexity : O(2n)
 
 
 
