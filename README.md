@@ -242,6 +242,8 @@ Jupyter notebook & Jypyter lab
 
 [Eye And Identity](HackerRank/EyeAndIdentity/EyeAndIdentity.md)  
 
+[Array Mathematics](HackerRank/ArrayMathematics/ArrayMathematics.md)  
+  
 　  　    
 
 ## Codewars
