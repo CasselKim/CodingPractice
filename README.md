@@ -46,6 +46,11 @@ Jupyter notebook & Jypyter lab
 
 ### Python
 
+
+<details>  
+<summary>Hacker Rank - Python</summary>  
+<div markdown="1">    
+
 [JumpingOnTheClouds](HackerRank/JumpingOnTheClouds/JumpingOnTheClouds.md)
 
 [Runner-Up](HackerRank/Runner-Up/Runner-Up.md)
@@ -244,7 +249,9 @@ Jupyter notebook & Jypyter lab
 
 [Array Mathematics](HackerRank/ArrayMathematics/ArrayMathematics.md)  
   
-　  　    
+</div>  
+</details>  
+
 
 ## Codewars
 
