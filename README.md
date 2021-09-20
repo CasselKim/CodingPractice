@@ -248,7 +248,12 @@ Jupyter notebook & Jypyter lab
 [Eye And Identity](HackerRank/EyeAndIdentity/EyeAndIdentity.md)  
 
 [Array Mathematics](HackerRank/ArrayMathematics/ArrayMathematics.md)   
+
 [Floor Ceil And Rint](HackerRank/FloorCeilAndRint/FloorCeilAndRint.md)    
+
+[Sum and Prod](HackerRank/SumandProd/SumandProd.md)   
+
+
 
 </div>  
 </details>  
