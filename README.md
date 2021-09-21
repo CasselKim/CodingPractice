@@ -253,6 +253,8 @@ Jupyter notebook & Jypyter lab
 
 [Sum and Prod](HackerRank/SumandProd/SumandProd.md)   
 
+[Mean Var and Std](HackerRank/MeanVarAndStd/MeanVarAndStd.md)  
+
 
 
 </div>  
