@@ -257,6 +257,8 @@ Jupyter notebook & Jypyter lab
 
 [Default Arguments](HackerRank/DefaultArguments/DefaultArguments.md)   
 
+[Words Score](HackerRAnk/WordsScore/WordsScore.md)  
+
 </div>  
 </details>  
 
