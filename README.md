@@ -259,6 +259,8 @@ Jupyter notebook & Jypyter lab
 
 [Words Score](HackerRAnk/WordsScore/WordsScore.md)  
 
+[Validating Postal Codes](HackerRank/ValidatingPostalCodes/ValidatingPostalCodes.md)  
+
 </div>  
 </details>  
 
