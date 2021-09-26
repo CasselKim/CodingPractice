@@ -261,6 +261,8 @@ Jupyter notebook & Jypyter lab
 
 [Validating Postal Codes](HackerRank/ValidatingPostalCodes/ValidatingPostalCodes.md)  
 
+[Matrix Script](HackerRank/MatrixScript/MatrixScript.md)  
+
 </div>  
 </details>  
 
