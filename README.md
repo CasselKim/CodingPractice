@@ -44,6 +44,8 @@ Jupyter notebook & Jypyter lab
 
 [SparseArrays](HackerRank/SparseArrays/SparseArrays.md)  
 
+[Repeated String](HackerRank/RepeatedString/RepeatedString.md)   
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
