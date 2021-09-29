@@ -46,6 +46,8 @@ Jupyter notebook & Jypyter lab
 
 [Repeated String](HackerRank/RepeatedString/RepeatedString.md)   
 
+[Arrays : Left Rotation](HackerRank/ArraysLeftRotation/ArraysLeftRotation.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
