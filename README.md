@@ -48,6 +48,8 @@ Jupyter notebook & Jypyter lab
 
 [Arrays : Left Rotation](HackerRank/ArraysLeftRotation/ArraysLeftRotation.md)  
 
+[New Year Chaos](HackerRank/NewYearChaos/NewYearChaos.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
