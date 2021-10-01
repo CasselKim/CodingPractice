@@ -50,6 +50,8 @@ Jupyter notebook & Jypyter lab
 
 [New Year Chaos](HackerRank/NewYearChaos/NewYearChaos.md)  
 
+[Minimum Swaps 2](HackerRank/MinimumSwaps2/MinimumSwaps2.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
