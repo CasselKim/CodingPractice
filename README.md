@@ -56,6 +56,8 @@ Jupyter notebook & Jypyter lab
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
 
+[Print in Reverse](HackerRank/PrintinReverse/PrintinReverse.md)  
+
 ### Python
 
 
