@@ -58,6 +58,8 @@ Jupyter notebook & Jypyter lab
 
 [Print in Reverse](HackerRank/PrintinReverse/PrintinReverse.md)  
 
+[Merge Two Sorted Linked Lists](HackerRank/MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists.md)  
+
 ### Python
 
 
