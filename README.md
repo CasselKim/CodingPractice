@@ -52,6 +52,8 @@ Jupyter notebook & Jypyter lab
 
 [Minimum Swaps 2](HackerRank/MinimumSwaps2/MinimumSwaps2.md)  
 
+[Hash Tables : Ransom Note](HackerRank/HashTablesRansomNote/HashTablesRansomNote.md)   
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
