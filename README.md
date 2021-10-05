@@ -54,6 +54,8 @@ Jupyter notebook & Jypyter lab
 
 [Hash Tables : Ransom Note](HackerRank/HashTablesRansomNote/HashTablesRansomNote.md)   
 
+[Two Strings](HackerRank/TwoStrings/TwoStrings.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
