@@ -56,6 +56,8 @@ Jupyter notebook & Jypyter lab
 
 [Two Strings](HackerRank/TwoStrings/TwoStrings.md)  
 
+[Sherlock and Anagrams](HackerRAnk/SherlockAndAnagrams/SherlockAndAnagrams.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
