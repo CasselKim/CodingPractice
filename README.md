@@ -66,6 +66,8 @@ Jupyter notebook & Jypyter lab
 
 [Merge Two Sorted Linked Lists](HackerRank/MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists.md)  
 
+[Get Node Value](HackerRank/GetNodeValue/GetNodeValue.md)  
+
 ### Python
 
 
