@@ -58,6 +58,8 @@ Jupyter notebook & Jypyter lab
 
 [Sherlock and Anagrams](HackerRAnk/SherlockAndAnagrams/SherlockAndAnagrams.md)  
 
+[Sorting : Bubble Sort](HackerRank/SortingBubbleSort/SortingBubbleSort.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
