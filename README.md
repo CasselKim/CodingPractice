@@ -62,6 +62,8 @@ Jupyter notebook & Jypyter lab
 
 [Mark and Toys](HackerRank/MarkAndToys/MarkAndToys.md)  
 
+[Sorting : Comparator](HackerRank/SortingComparator/SortingComparator.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
