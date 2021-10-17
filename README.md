@@ -74,6 +74,8 @@ Jupyter notebook & Jypyter lab
 
 [Get Node Value](HackerRank/GetNodeValue/GetNodeValue.md)  
 
+[Delete a Node](HackerRank/DeleteNode/DeleteNode.md)  
+
 ### Python
 
 
