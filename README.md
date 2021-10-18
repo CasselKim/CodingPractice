@@ -76,6 +76,8 @@ Jupyter notebook & Jypyter lab
 
 [Delete a Node](HackerRank/DeleteNode/DeleteNode.md)  
 
+[Insert Node At The Tail Of A Linked List](HackerRank/InsertNodeAtTheTailOfALinkedList/InsertNodeAtTheTailOfALinkedList.md)  
+
 ### Python
 
 
