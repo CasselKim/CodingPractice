@@ -64,6 +64,8 @@ Jupyter notebook & Jypyter lab
 
 [Sorting : Comparator](HackerRank/SortingComparator/SortingComparator.md)  
 
+[Alternating Characters](HackerRank/AlternatingCharacters/AlternatingCharacters.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
