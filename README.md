@@ -80,6 +80,8 @@ Jupyter notebook & Jypyter lab
 
 [Insert Node At The Tail Of A Linked List](HackerRank/InsertNodeAtTheTailOfALinkedList/InsertNodeAtTheTailOfALinkedList.md)  
 
+[Insert Node At The Head Of A Linked List](HackerRank/InsertNodeAtTheHeadOfLinkedList/InsertNodeAtTheHeadOfLinkedList.md)  
+
 ### Python
 
 
