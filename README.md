@@ -82,6 +82,8 @@ Jupyter notebook & Jypyter lab
 
 [Insert Node At The Head Of A Linked List](HackerRank/InsertNodeAtTheHeadOfLinkedList/InsertNodeAtTheHeadOfLinkedList.md)  
 
+[Insert Node At The Specific Position In A linked list](HackerRank/InsertnodeAtSpecificPositionInAlinkedlist/InsertnodeAtSpecificPositionInAlinkedlist.md)  
+
 ### Python
 
 
