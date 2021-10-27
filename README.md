@@ -84,6 +84,8 @@ Jupyter notebook & Jypyter lab
 
 [Insert Node At The Specific Position In A linked list](HackerRank/InsertnodeAtSpecificPositionInAlinkedlist/InsertnodeAtSpecificPositionInAlinkedlist.md)  
 
+[Reverse a Linked List](HackerRank/ReverseLinkedList/ReverseLinkedList.md)  
+
 ### Python
 
 
