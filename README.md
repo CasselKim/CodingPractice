@@ -86,6 +86,8 @@ Jupyter notebook & Jypyter lab
 
 [Reverse a Linked List](HackerRank/ReverseLinkedList/ReverseLinkedList.md)  
 
+[Compare Two Linked Lists](HackerRank/CompareTwoLinkedLists/CompareTwoLinkedLists.md)  
+
 ### Python
 
 
