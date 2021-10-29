@@ -88,6 +88,8 @@ Jupyter notebook & Jypyter lab
 
 [Compare Two Linked Lists](HackerRank/CompareTwoLinkedLists/CompareTwoLinkedLists.md)  
 
+[Delete Duplicate-Value Nodes From a Sorted Linked List](HackerRank/DeleteDuplicate-ValueNodesFromSortedLinkedList/DeleteDuplicate-ValueNodesFromSortedLinkedList.md)  
+
 ### Python
 
 
