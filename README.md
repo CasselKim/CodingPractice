@@ -90,6 +90,8 @@ Jupyter notebook & Jypyter lab
 
 [Delete Duplicate-Value Nodes From a Sorted Linked List](HackerRank/DeleteDuplicate-ValueNodesFromSortedLinkedList/DeleteDuplicate-ValueNodesFromSortedLinkedList.md)  
 
+[Reverse Doubly Linked List](HackerRank/ReverseDoublyLinkedList/ReverseDoublyLinkedList.md)  
+
 ### Python
 
 
