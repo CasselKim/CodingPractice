@@ -92,6 +92,8 @@ Jupyter notebook & Jypyter lab
 
 [Reverse Doubly Linked List](HackerRank/ReverseDoublyLinkedList/ReverseDoublyLinkedList.md)  
 
+[Find Merge Point Of Two Lists](HackerRank/FindMergePointOfTwoLists/FindMergePointOfTwoLists.md)  
+
 ### Python
 
 
