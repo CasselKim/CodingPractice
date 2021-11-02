@@ -66,6 +66,8 @@ Jupyter notebook & Jypyter lab
 
 [Alternating Characters](HackerRank/AlternatingCharacters/AlternatingCharacters.md)  
 
+[Count Triplets](HackerRank/CountTriplets/CountTriplets.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
