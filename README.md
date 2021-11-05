@@ -68,6 +68,8 @@ Jupyter notebook & Jypyter lab
 
 [Count Triplets](HackerRank/CountTriplets/CountTriplets.md)  
 
+[Luck Balance](HackerRank/LuckBalance/LuckBalance.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
