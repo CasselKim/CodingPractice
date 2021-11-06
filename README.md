@@ -70,6 +70,8 @@ Jupyter notebook & Jypyter lab
 
 [Luck Balance](HackerRank/LuckBalance/LuckBalance.md)  
 
+[Frequency Queries](HackerRank/FrequencyQueries/FrequencyQueries.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
