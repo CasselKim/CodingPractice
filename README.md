@@ -72,6 +72,8 @@ Jupyter notebook & Jypyter lab
 
 [Frequency Queries](HackerRank/FrequencyQueries/FrequencyQueries.md)  
 
+[Tree Height Of a Binary Tree](HackerRank/TreeHeightOfBinaryTree/TreeHeightOfBinaryTree.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
