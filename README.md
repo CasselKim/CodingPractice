@@ -102,6 +102,8 @@ Jupyter notebook & Jypyter lab
 
 [Find Merge Point Of Two Lists](HackerRank/FindMergePointOfTwoLists/FindMergePointOfTwoLists.md)  
 
+[Inserting a Node Into a Sorted Doubly Linked List](HackerRank/InsertingNodeIntoSortedDoublyLinkedList/InsertingNodeIntoSortedDoublyLinkedList.md)  
+
 ### Python
 
 
