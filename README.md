@@ -72,8 +72,6 @@ Jupyter notebook & Jypyter lab
 
 [Frequency Queries](HackerRank/FrequencyQueries/FrequencyQueries.md)  
 
-[Tree Height Of a Binary Tree](HackerRank/TreeHeightOfBinaryTree/TreeHeightOfBinaryTree.md)  
-
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
@@ -101,6 +99,10 @@ Jupyter notebook & Jypyter lab
 [Reverse Doubly Linked List](HackerRank/ReverseDoublyLinkedList/ReverseDoublyLinkedList.md)  
 
 [Find Merge Point Of Two Lists](HackerRank/FindMergePointOfTwoLists/FindMergePointOfTwoLists.md)  
+
+[Inserting a Node Into a Sorted Doubly Linked List](HackerRank/InsertingNodeIntoSortedDoublyLinkedList/InsertingNodeIntoSortedDoublyLinkedList.md)  
+
+[Tree Height Of a Binary Tree](HackerRank/TreeHeightOfBinaryTree/TreeHeightOfBinaryTree.md)  
 
 [Tree : Preorder Traversal](HackerRank/TreePreorderTraversal/TreePreorderTraversal.md)  
 
