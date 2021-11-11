@@ -108,6 +108,8 @@ Jupyter notebook & Jypyter lab
 
 [Tree : Postorder Traversal](HackerRank/TreePostorderTraversal/TreePostorderTraversal.md)  
 
+[Tree : Inorder Traversal](HackerRank/TreeInorderTraversal/TreeInorderTraversal.md)  
+
 ### Python
 
 
