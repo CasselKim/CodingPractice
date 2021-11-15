@@ -114,6 +114,8 @@ Jupyter notebook & Jypyter lab
 
 [Tree: Level Order Traversal](HackerRank/TreeLevelOrderTraversal/TreeLevelOrderTraversal.md)  
 
+[Binary Search Tree : Insertion](HackerRank/BinarySearchTreeInsertion/BinarySearchTreeInsertion.md)  
+
 ### Python
 
 
