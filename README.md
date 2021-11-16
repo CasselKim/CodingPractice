@@ -116,6 +116,8 @@ Jupyter notebook & Jypyter lab
 
 [Binary Search Tree : Insertion](HackerRank/BinarySearchTreeInsertion/BinarySearchTreeInsertion.md)  
 
+[Binary Search Tree : Lowest Common Ancestor](HackerRank/BinarySearchTreeLowestCommonAncestor/BinarySearchTreeLowestCommonAncestor.md)   
+
 ### Python
 
 
