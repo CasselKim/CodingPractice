@@ -120,6 +120,8 @@ Jupyter notebook & Jypyter lab
 
 [Cycle Detection](HackerRank/CycleDetection/CycleDetection.md)  
 
+[Maximum Element](HackerRank/MaximumElement/MaximumElement.md)  
+
 ### Python
 
 
