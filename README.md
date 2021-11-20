@@ -6,7 +6,7 @@
 
 [Codewars](https://www.codewars.com/)  
 
-[Hackerrank](https://www.hackerrank.com/)  
+[HackerRank](https://www.hackerrank.com/)  
 
 [Goorm-edu](https://edu.goorm.io/)  
 
@@ -102,6 +102,8 @@ Jupyter notebook & Jypyter lab
 
 [Inserting a Node Into a Sorted Doubly Linked List](HackerRank/InsertingNodeIntoSortedDoublyLinkedList/InsertingNodeIntoSortedDoublyLinkedList.md)  
 
+#### Trees
+
 [Tree Height Of a Binary Tree](HackerRank/TreeHeightOfBinaryTree/TreeHeightOfBinaryTree.md)  
 
 [Tree : Preorder Traversal](HackerRank/TreePreorderTraversal/TreePreorderTraversal.md)  
@@ -113,6 +115,8 @@ Jupyter notebook & Jypyter lab
 [Tree: Top View](HackerRank/TreeTopView/TreeTopView.md)   
 
 [Tree: Level Order Traversal](HackerRank/TreeLevelOrderTraversal/TreeLevelOrderTraversal.md)  
+
+#### BST
 
 [Binary Search Tree : Insertion](HackerRank/BinarySearchTreeInsertion/BinarySearchTreeInsertion.md)  
 
