@@ -122,6 +122,8 @@ Jupyter notebook & Jypyter lab
 
 [Maximum Element](HackerRank/MaximumElement/MaximumElement.md)  
 
+[QHEAP1](HackerRank/QHEAP1/QHEAP1.md)  
+
 ### Python
 
 
