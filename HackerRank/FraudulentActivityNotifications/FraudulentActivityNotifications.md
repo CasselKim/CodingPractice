@@ -40,8 +40,8 @@ def activityNotifications(expenditure, d):
     return notify    
 ```
 
-* Time Complexity : O(n)
-* Space Complexity : O(2n)
+* Time Complexity : O(n*200)
+* Space Complexity : O(200)
 
 
 

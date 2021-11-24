@@ -74,6 +74,8 @@ Jupyter notebook & Jypyter lab
 
 [Fraudulent Activity Notifications](HackerRank/FraudulentActivityNotifications/FraudulentActivityNotifications.md)  
 
+[Merge Sort : Counting Inversions](HackerRank/MergeSortCountingInversions/MergeSortCountingInversions.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
