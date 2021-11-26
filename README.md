@@ -78,6 +78,8 @@ Jupyter notebook & Jypyter lab
 
 [Sherlock and the valid string](HackerRank/SherlockAndTheValidString/SherlockAndTheValidString.md)  
 
+[Special String Again](HackerRank/SpecialStringAgain/SpecialStringAgain.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
