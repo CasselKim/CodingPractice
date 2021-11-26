@@ -76,6 +76,8 @@ Jupyter notebook & Jypyter lab
 
 [Merge Sort : Counting Inversions](HackerRank/MergeSortCountingInversions/MergeSortCountingInversions.md)  
 
+[Sherlock and the valid string](HackerRank/SherlockAndTheValidString/SherlockAndTheValidString.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
