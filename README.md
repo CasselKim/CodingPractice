@@ -80,6 +80,8 @@ Jupyter notebook & Jypyter lab
 
 [Special String Again](HackerRank/SpecialStringAgain/SpecialStringAgain.md)  
 
+[(X)Common Child](HackerRank/CommonChild/CommonChild.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
