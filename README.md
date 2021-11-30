@@ -138,6 +138,8 @@ Jupyter notebook & Jypyter lab
 
 [QHEAP1](HackerRank/QHEAP1/QHEAP1.md)  
 
+[Is This a Binary Search Tree?](HackerRank/IsThisBinarySearchTree/IsThisBinarySearchTree.md)  
+
 ### Python
 
 
