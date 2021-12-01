@@ -80,7 +80,9 @@ Jupyter notebook & Jypyter lab
 
 [Special String Again](HackerRank/SpecialStringAgain/SpecialStringAgain.md)  
 
-[(X)Common Child](HackerRank/CommonChild/CommonChild.md)  
+[Common Child](HackerRank/CommonChild/CommonChild.md)  
+
+[Greedy Florist](HackerRank/GreedyFlorist/GreedyFlorist.md)   
 
 ### Problem Solving
 

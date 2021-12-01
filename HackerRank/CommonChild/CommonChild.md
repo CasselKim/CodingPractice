@@ -37,3 +37,5 @@ def commonChild(s1, s2):
 
 
 ### The things I got
+
+LCS LCS LCS!!!
