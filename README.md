@@ -84,6 +84,8 @@ Jupyter notebook & Jypyter lab
 
 [Greedy Florist](HackerRank/GreedyFlorist/GreedyFlorist.md)   
 
+[Max Min](HackerRank/MaxMin/MaxMin.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
