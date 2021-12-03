@@ -86,6 +86,8 @@ Jupyter notebook & Jypyter lab
 
 [Max Min](HackerRank/MaxMin/MaxMin.md)  
 
+[Hash Tables : Ice Cream Parlor](HackerRank/HashTablesIceCreamParlor/HashTablesIceCreamParlor.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
