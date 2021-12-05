@@ -88,6 +88,8 @@ Jupyter notebook & Jypyter lab
 
 [Hash Tables : Ice Cream Parlor](HackerRank/HashTablesIceCreamParlor/HashTablesIceCreamParlor.md)  
 
+[Swap Nodes [Algo]](HackerRank/SwapNodes[Algo]/SwapNodes[Algo].md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
