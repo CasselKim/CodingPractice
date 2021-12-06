@@ -90,6 +90,8 @@ Jupyter notebook & Jypyter lab
 
 [Swap Nodes [Algo]](HackerRank/SwapNodes[Algo]/SwapNodes[Algo].md)  
 
+[Pairs](HackerRank/Pairs/Pairs.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
