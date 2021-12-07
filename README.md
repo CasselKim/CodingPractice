@@ -94,6 +94,8 @@ Jupyter notebook & Jypyter lab
 
 [Array Manipulation](HackerRank/ArrayManipulation/ArrayManipulation.md)  
 
+[Minimum Absolute Difference In an Array](HackerRank/MinimumAbsoluteDifferenceInArray/MinimumAbsoluteDifferenceInArray.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
