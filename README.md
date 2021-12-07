@@ -92,6 +92,8 @@ Jupyter notebook & Jypyter lab
 
 [Pairs](HackerRank/Pairs/Pairs.md)  
 
+[Array Manipulation](HackerRank/ArrayManipulation/ArrayManipulation.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
