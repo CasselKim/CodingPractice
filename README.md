@@ -96,6 +96,8 @@ Jupyter notebook & Jypyter lab
 
 [Minimum Absolute Difference In an Array](HackerRank/MinimumAbsoluteDifferenceInArray/MinimumAbsoluteDifferenceInArray.md)  
 
+[Triple Sum](HackerRank/TripleSum/TripleSum.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
