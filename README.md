@@ -98,6 +98,8 @@ Jupyter notebook & Jypyter lab
 
 [Triple Sum](HackerRank/TripleSum/TripleSum.md)  
 
+[☆Minimum Time Required](HackerRank/MinimumTimeRequired/MinimumTimeRequired.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
