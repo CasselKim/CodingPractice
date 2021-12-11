@@ -130,6 +130,10 @@ Jupyter notebook & Jypyter lab
 
 [Inserting a Node Into a Sorted Doubly Linked List](HackerRank/InsertingNodeIntoSortedDoublyLinkedList/InsertingNodeIntoSortedDoublyLinkedList.md)  
 
+#### Data Structures  
+
+[Largest Rectangle](HackerRank/LargestRectangle/LargestRectangle.md)  
+
 #### Trees
 
 [Tree Height Of a Binary Tree](HackerRank/TreeHeightOfBinaryTree/TreeHeightOfBinaryTree.md)  
