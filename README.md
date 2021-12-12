@@ -100,6 +100,8 @@ Jupyter notebook & Jypyter lab
 
 [☆Minimum Time Required](HackerRank/MinimumTimeRequired/MinimumTimeRequired.md)  
 
+[☆Reverse Shuffle Merge](HackerRank/ReverseShuffleMerge/ReverseShuffleMerge.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
@@ -132,7 +134,7 @@ Jupyter notebook & Jypyter lab
 
 #### Data Structures  
 
-[Largest Rectangle](HackerRank/LargestRectangle/LargestRectangle.md)  
+[☆Largest Rectangle](HackerRank/LargestRectangle/LargestRectangle.md)  
 
 #### Trees
 

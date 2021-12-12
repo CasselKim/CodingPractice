@@ -55,7 +55,7 @@ def reverseShuffleMerge(s):
 
 ### The things I got
 
-Largest Rectangle 문제의 연장선이다.  
+[Largest Rectangle](../LargestRectangle/LargestRectangle.md) 문제의 연장선이다.  
 
 문자열을 뒤집어서 사전 오름차순으로 stack에 push 하다가 낮은 문자를 만나면 stack을 모두 pop하고(pop 할 수 있는 선에서) 해당 문자를 넣는 식이다.    
 
