@@ -100,11 +100,9 @@ Jupyter notebook & Jypyter lab
 
 [☆Minimum Time Required](HackerRank/MinimumTimeRequired/MinimumTimeRequired.md)  
 
-<<<<<<< HEAD
-[Maximum Subarray Sum](HackerRank/MaximumSubarraySum/MaximumSubarraySum.md)  
-=======
 [☆Reverse Shuffle Merge](HackerRank/ReverseShuffleMerge/ReverseShuffleMerge.md)  
->>>>>>> 72942933551a7a6a1ee0bc005c39d85ccafd4c76
+
+[Maximum Subarray Sum](HackerRank/MaximumSubarraySum/MaximumSubarraySum.md)   
 
 ### Problem Solving
 
