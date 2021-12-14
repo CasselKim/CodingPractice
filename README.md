@@ -100,6 +100,8 @@ Jupyter notebook & Jypyter lab
 
 [☆Minimum Time Required](HackerRank/MinimumTimeRequired/MinimumTimeRequired.md)  
 
+[Maximum Subarray Sum](HackerRank/MaximumSubarraySum/MaximumSubarraySum.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
