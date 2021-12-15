@@ -102,7 +102,7 @@ Jupyter notebook & Jypyter lab
 
 [☆Reverse Shuffle Merge](HackerRank/ReverseShuffleMerge/ReverseShuffleMerge.md)  
 
-[Maximum Subarray Sum](HackerRank/MaximumSubarraySum/MaximumSubarraySum.md)   
+[☆Maximum Subarray Sum](HackerRank/MaximumSubarraySum/MaximumSubarraySum.md)   
 
 ### Problem Solving
 
