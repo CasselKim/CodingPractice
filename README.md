@@ -106,6 +106,8 @@ Jupyter notebook & Jypyter lab
 
 [Recursion : Fibonacci Numbers](HackerRank/RecursionFibonacciNumbers/RecursionFibonacciNumbers.md)  
 
+[Making Candies](HackerRank/MakingCandies/MakingCandies.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
