@@ -108,6 +108,8 @@ Jupyter notebook & Jypyter lab
 
 [Making Candies](HackerRank/MakingCandies/MakingCandies.md)  
 
+[☆Max Array Sum](HackerRank/MaxArraySum/MaxArraySum.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
