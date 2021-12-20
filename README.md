@@ -106,9 +106,11 @@ Jupyter notebook & Jypyter lab
 
 [Recursion : Fibonacci Numbers](HackerRank/RecursionFibonacciNumbers/RecursionFibonacciNumbers.md)  
 
-[Making Candies](HackerRank/MakingCandies/MakingCandies.md)  
+[☆ Making Candies](HackerRank/MakingCandies/MakingCandies.md)  
 
 [☆Max Array Sum](HackerRank/MaxArraySum/MaxArraySum.md)  
+
+[☆ Abbreviation](HackerRank/Abbreviation/Abbreviation.md)  
 
 ### Problem Solving
 
