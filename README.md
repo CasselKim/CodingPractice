@@ -160,6 +160,8 @@ Jupyter notebook & Jypyter lab
 
 [Tree: Level Order Traversal](HackerRank/TreeLevelOrderTraversal/TreeLevelOrderTraversal.md)  
 
+[Tree: Huffman Decoding](HackerRank/TreeHuffmanDecoding/TreeHuffmanDecoding.md)  
+
 #### BST
 
 [Binary Search Tree : Insertion](HackerRank/BinarySearchTreeInsertion/BinarySearchTreeInsertion.md)  
