@@ -112,6 +112,8 @@ Jupyter notebook & Jypyter lab
 
 [☆ Abbreviation](HackerRank/Abbreviation/Abbreviation.md)  
 
+[Balanced Brackets](HackerRank/BalancedBrackets/BalancedBrackets.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
