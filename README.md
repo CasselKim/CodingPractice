@@ -114,6 +114,8 @@ Jupyter notebook & Jypyter lab
 
 [Balanced Brackets](HackerRank/BalancedBrackets/BalancedBrackets.md)  
 
+[☆ Queues : A Tale of Two Stacks](HackerRank/QueuesATaleofTwoStacks/QueuesATaleofTwoStacks.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
