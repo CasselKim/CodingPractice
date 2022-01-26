@@ -116,6 +116,8 @@ Jupyter notebook & Jypyter lab
 
 [☆ Queues : A Tale of Two Stacks](HackerRank/QueuesATaleofTwoStacks/QueuesATaleofTwoStacks.md)  
 
+[Flipping Bits](HackerRank/FlippingBits/FlippingBits.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
