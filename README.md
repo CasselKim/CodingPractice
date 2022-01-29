@@ -118,6 +118,8 @@ Jupyter notebook & Jypyter lab
 
 [Flipping Bits](HackerRank/FlippingBits/FlippingBits.md)  
 
+[Time Complexity : Primality](HackerRank/TimeComplexityPrimality/TimeComplexityPrimality.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
