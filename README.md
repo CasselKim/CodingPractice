@@ -120,6 +120,8 @@ Jupyter notebook & Jypyter lab
 
 [Time Complexity : Primality](HackerRank/TimeComplexityPrimality/TimeComplexityPrimality.md)  
 
+[Maximum Xor](HackerRank/MaximumXor/MaximumXor.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
