@@ -122,6 +122,8 @@ Jupyter notebook & Jypyter lab
 
 [Maximum Xor](HackerRank/MaximumXor/MaximumXor.md)  
 
+[Linked Lists : Detect a Cycle](HackerRank/LinkedListsDetectCycle/LinkedListsDetectCycle.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
