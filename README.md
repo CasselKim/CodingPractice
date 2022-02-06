@@ -124,6 +124,8 @@ Jupyter notebook & Jypyter lab
 
 [Linked Lists : Detect a Cycle](HackerRank/LinkedListsDetectCycle/LinkedListsDetectCycle.md)  
 
+[Recursion : Davis' Staircase](HackerRank/RecursionDavis'Staircase/RecursionDavis'Staircase.md)   
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
