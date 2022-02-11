@@ -126,6 +126,8 @@ Jupyter notebook & Jypyter lab
 
 [Recursion : Davis' Staircase](HackerRank/RecursionDavis'Staircase/RecursionDavis'Staircase.md)   
 
+[Jesse And Cookies](HackerRank/JesseAndCookies/JesseAndCookies.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
