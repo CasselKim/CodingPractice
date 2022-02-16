@@ -7,39 +7,23 @@
 ### My Answer
 
 ```python
-def resetQueue(q, array) : 
-    while q.qsize() : 
-        q.get()
-    for x in array :
-        q.put(x)
+def abbreviation(a, b): 
+    dp = [[0 for _ in range(len(a)+1)] for _ in range(len(b)+1)]
+    dp[-1][-1]=1
 
-def abbreviation(a, b):
-    #print('---------------')
-    q = queue.Queue()
-    resetQueue(q, b)          
-        
-    previous_lower = ''
-    next_letter = q.get()
-    count=0
-    for i,x in enumerate(a) : 
-        #print('x : {}, next : {}, previous_lower : {}'.format(x,next_letter,previous_lower))
-        if x.upper()==next_letter : 
-            if x.islower() :
-                previous_lower = x
-            count+=1
-            if q.qsize()==0 : 
-                next_letter = '?'
-                continue
-            else : 
-                next_letter = q.get()
-        elif x.isupper() and x == previous_lower.upper() : 
-            previous_lower = ''
-        elif x==x.upper() : 
-            print('splash! at x : {}, next_letter : {} // i : {}'.format(x,next_letter,i))
-            resetQueue(q, b)
-            count=0
-    #print(count)
-    if count==len(b) : 
+    for i in reversed(range(len(dp))) : 
+        for j in reversed(range(len(dp[0]))) :
+            if dp[i][j]==1 : continue
+            
+            # case 1 : when end of characters matches
+            if i<len(dp)-1 and j<len(dp[0])-1 and dp[i+1][j+1]==1 and a[j].upper()==b[i] :
+                dp[i][j]=1
+
+            # case 2 : when end of character removable
+            elif j<len(dp[0])-1 and dp[i][j+1]==1 and a[j].islower() : 
+                dp[i][j]=1
+
+    if dp[0][0]==1 : 
         return 'YES'
     else : 
         return 'NO'
@@ -57,3 +41,14 @@ def abbreviation(a, b):
 1차 풀이 : B를 순회하면서 q에 넣고 -> pull하면서 대문자랑 맞는지 확인. 소문자면 간직해뒀다가 대문자가 나왔을 때 1회 면제용으로 사용.  
 
 리뷰 : 쉽게볼게 아닌 것 같다. 뒤에서 대문자가 나온게 3번째 H인지 15번째 H인지 모른다. 흐음  
+
+2차 풀이 : 다이나믹 프로그래밍을 더 깊게 이해하고 풀이하니 엄청나게 쉽게 풀렸다.  
+
+![image](solution.jpg)
+
+다이나믹 프로그래밍은 sub-problems로 나누는게 가장 중요하다. 계속해서 연습하면서 감을 쌓아가도록 하자  
+
+[다이나믹 프로그래밍 영상-1](https://youtu.be/eJC2oetXaNk)  
+
+[다이나믹 프로그래밍 영상-2](https://youtu.be/rhda6lR5kyQ)  
+
