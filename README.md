@@ -128,6 +128,8 @@ Jupyter notebook & Jypyter lab
 
 [Jesse And Cookies](HackerRank/JesseAndCookies/JesseAndCookies.md)  
 
+[Trees : Is This a Binary Search Tree?](HackerRank/TreesIsThisBinarySearchTree/TreesIsThisBinarySearchTree.md)  
+
 ### Problem Solving
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
