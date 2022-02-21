@@ -130,7 +130,9 @@ Jupyter notebook & Jypyter lab
 
 [Trees : Is This a Binary Search Tree?](HackerRank/TreesIsThisBinarySearchTree/TreesIsThisBinarySearchTree.md)  
 
-### Problem Solving
+[☆ Candies](HackerRank/Candies/Candies.md)  
+
+### Problem Solving  
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
 
