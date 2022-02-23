@@ -132,6 +132,8 @@ Jupyter notebook & Jypyter lab
 
 [☆ Candies](HackerRank/Candies/Candies.md)  
 
+[Recursive Digit Sum](HackerRank/RecursiveDigitSum/RecursiveDigitSum.md)  
+
 ### Problem Solving  
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
