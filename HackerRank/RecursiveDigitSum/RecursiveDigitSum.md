@@ -8,19 +8,11 @@
 
 ```python
 def superDigit(n, k):
-    sum=0
-    for i in range(len(n)) : 
-        sum+=ord(n[i])-ord('0')
-        if sum>9 : 
-            sum-=9
-    sum*=k
-    sum%=9
-    if sum==0 : 
-        return 9
-    return sum
+    x = int(n)%9*k%9
+    return x if x else 9
 ```
 
-* Time Complexity : O(n)
+* Time Complexity : O(1)
 * Space Complexity : O(1)
 
 
