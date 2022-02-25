@@ -134,6 +134,8 @@ Jupyter notebook & Jypyter lab
 
 [Recursive Digit Sum](HackerRank/RecursiveDigitSum/RecursiveDigitSum.md)  
 
+[Min Max Riddle](HackerRank/MinMaxRiddle/MinMaxRiddle.md)  
+
 ### Problem Solving  
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
