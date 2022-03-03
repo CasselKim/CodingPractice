@@ -1,6 +1,6 @@
 # [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem)
 
-
+ ![image](problem.png)  
 
 
 
@@ -11,7 +11,7 @@ def crosswordPuzzle(crossword, words):
 
     crossword_list = [list(c) for c in crossword]
     
-    
+
     horizon = []
     for i in range(len(crossword)) : 
         temp = []
@@ -51,23 +51,27 @@ def crosswordPuzzle(crossword, words):
             if length_dict[k] : 
                 pair_dict[k].append(list(zip(list(p),length_dict[k])))
                 
-        
+        temp_crossword_list = crossword_list.copy()
         for x in pair_dict[k] : 
+            temp_crossword_list = deepcopy(crossword_list)
+            is_error = False
             for y in x : 
                 is_error = False
                 for i,z in enumerate(y[1]) : 
-                    if crossword_list[z[0]][z[1]] != '-' and crossword_list[z[0]][z[1]] != y[0][i] : 
+                    if temp_crossword_list[z[0]][z[1]] != '-' and temp_crossword_list[z[0]][z[1]] != y[0][i] : 
                         is_error = True
                         break
                     else : 
-                        crossword_list[z[0]][z[1]] = y[0][i]
+                        temp_crossword_list[z[0]][z[1]] = y[0][i]
                 if is_error : break
-            if is_error : break
             
-    print('\n'.join([''.join(c) for c in crossword_list]))
+            if not is_error : break
+        crossword_list = temp_crossword_list
+            
+    return [''.join(c) for c in crossword_list]
 ```
 
-* Time Complexity : O(n)
+* Time Complexity : O(n!) - worst, O(n) : best
 * Space Complexity : O(n)
 
 
