@@ -136,6 +136,8 @@ Jupyter notebook & Jypyter lab
 
 [Min Max Riddle](HackerRank/MinMaxRiddle/MinMaxRiddle.md)  
 
+[Crossword Puzzle](HackerRank/CrosswordPuzzle/CrosswordPuzzle.md)  
+
 ### Problem Solving  
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
