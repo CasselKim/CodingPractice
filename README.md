@@ -134,9 +134,11 @@ Jupyter notebook & Jypyter lab
 
 [Recursive Digit Sum](HackerRank/RecursiveDigitSum/RecursiveDigitSum.md)  
 
-[Min Max Riddle](HackerRank/MinMaxRiddle/MinMaxRiddle.md)  
+[☆ Min Max Riddle](HackerRank/MinMaxRiddle/MinMaxRiddle.md)  
 
 [Crossword Puzzle](HackerRank/CrosswordPuzzle/CrosswordPuzzle.md)  
+
+[☆ Roads And Libraries](HackerRank/RoadsAndLibraries/RoadsAndLibraries.md)  
 
 ### Problem Solving  
 
