@@ -17,52 +17,30 @@ def makeGraph(cities) :
 
 
 def roadsAndLibraries(n, c_lib, c_road, cities):
-    if n*c_lib < len(cities)*c_road : 
-        return n*c_lib
-    else : 
-        G = makeGraph(cities)
-        #print(G)
-        components = []
-        used = set()
-        
-        total = 0
-        for key in list(G.keys()) : 
-            if key in used : continue
-            else : 
-                stack = [key]
-                seen = set([key])
-                counting_star = 0
-                
-                while stack : 
-                    pop_node = stack.pop()
-                    
-                    for x in G[pop_node] : 
-                        if x in seen : 
-                            continue
-                        else : 
-                            seen.add(x)
-                            stack.append(x)
-                            counting_star+=1
-                        
-                components.append(seen)
-                used = used.union(seen)
-                #print("counting_star!",counting_star)
-                total+=counting_star*c_road+c_lib
-        #print("total =",total)
-        return total
-            
-        total_cost = 0
-        for comp in components : 
-            edge_num = 0
-            for x in comp : 
-                edge_num += len(G[x])
-            #print("edge_num:",edge_num//2)
-            total_cost+=(edge_num//2-1)*c_road+c_lib
-                
-        #print(components)
-        #print(used)
-        return total_cost
+    if c_lib < c_road: return c_lib * n
+    G = makeGraph(cities)
+    used = set()
 
+    total = (n-len(G.keys()))*c_lib
+    for key in list(G.keys()) : 
+        if key in used : continue
+        else : 
+            stack = [key]
+            seen = set([key])
+            counting_star = 0
+
+            while stack : 
+                pop_key = stack.pop()
+                for x in G[pop_key] : 
+                    if x not in seen : 
+                        seen.add(x)
+                        used.add(x)
+                        stack.append(x)
+                        counting_star+=1
+
+            total+=counting_star*c_road+c_lib
+
+    return total
 ```
 
 * Time Complexity : O(n)
@@ -72,4 +50,9 @@ def roadsAndLibraries(n, c_lib, c_road, cities):
 
 ### The things I got
 
-그래프를 시작했다. 감 잡기가 어려워 Discussion을 많이 참고하는중
+그래프를 시작했다. 감 잡기가 어려워 Discussion을 많이 참고하는중  
+
+해당 문제는 그래프 알고리즘이라기 보단 DFS를 써서 어떻게 creative하게 푸냐의 문제인거같음..  
+
+나는 파이썬의 set.union의 시간복잡도를 예상못해서 계속 timeout이 나왔는데, O(len(s)+len(t))의 어마무시한 놈이었다. **set은 hash기반이라서 굉장히 빠르지만 union이나 intersection과 같은 작업에서는 굉장히 느려지니 잘 사용하도록 하자.**  
+

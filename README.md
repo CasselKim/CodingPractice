@@ -138,7 +138,7 @@ Jupyter notebook & Jypyter lab
 
 [Crossword Puzzle](HackerRank/CrosswordPuzzle/CrosswordPuzzle.md)  
 
-[☆ Roads And Libraries](HackerRank/RoadsAndLibraries/RoadsAndLibraries.md)  
+[Roads And Libraries](HackerRank/RoadsAndLibraries/RoadsAndLibraries.md)  
 
 ### Problem Solving  
 
