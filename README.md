@@ -140,6 +140,8 @@ Jupyter notebook & Jypyter lab
 
 [Roads And Libraries](HackerRank/RoadsAndLibraries/RoadsAndLibraries.md)  
 
+[Castle On The Grid](HackerRank/CastleOnTheGrid/CastleOnTheGrid.md)  
+
 ### Problem Solving  
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
