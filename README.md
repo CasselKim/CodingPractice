@@ -142,6 +142,8 @@ Jupyter notebook & Jypyter lab
 
 [Castle On The Grid](HackerRank/CastleOnTheGrid/CastleOnTheGrid.md)  
 
+[Find The Nearest Clone](HackerRank/FindTheNearestClone/FindTheNearestClone.md)  
+
 ### Problem Solving  
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
