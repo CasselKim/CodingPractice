@@ -144,6 +144,8 @@ Jupyter notebook & Jypyter lab
 
 [Find The Nearest Clone](HackerRank/FindTheNearestClone/FindTheNearestClone.md)  
 
+
+
 ### Problem Solving  
 
 [Print The Elements Of A Linked List](HackerRank/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.md)  
@@ -173,6 +175,8 @@ Jupyter notebook & Jypyter lab
 [Find Merge Point Of Two Lists](HackerRank/FindMergePointOfTwoLists/FindMergePointOfTwoLists.md)  
 
 [Inserting a Node Into a Sorted Doubly Linked List](HackerRank/InsertingNodeIntoSortedDoublyLinkedList/InsertingNodeIntoSortedDoublyLinkedList.md)  
+
+[Queue Using Two Stacks](HackerRank/QueueUsingTwoStacks/QueueUsingTwoStacks.md)  
 
 #### Data Structures  
 
