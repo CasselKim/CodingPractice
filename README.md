@@ -178,6 +178,8 @@ Jupyter notebook & Jypyter lab
 
 [Queue Using Two Stacks](HackerRank/QueueUsingTwoStacks/QueueUsingTwoStacks.md)  
 
+[Components In Graph](HackerRank/ComponentsInGraph/ComponentsInGraph.md)  
+
 #### Data Structures  
 
 [☆Largest Rectangle](HackerRank/LargestRectangle/LargestRectangle.md)  
