@@ -1,4 +1,4 @@
-# [Find The Nearest Clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem)
+# [Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem)
 
 ![image](Problem.png)
 
@@ -7,36 +7,56 @@
 ### My Answer
 
 ```python
-import collections
+def makeGraph(graph_from, graph_to) : 
+    G = defaultdict(list)
+    for i in range(len(graph_from)) : 
+        G[graph_from[i]].append(graph_to[i])
+        G[graph_to[i]].append(graph_from[i])
+        
+    return G
+
+def findColorNode(ids, val):
+    return val
+    for i in range(len(ids)) : 
+        if ids[i]==val : 
+            return i       
 
 def findShortest(graph_nodes, graph_from, graph_to, ids, val):
-    graph = collections.defaultdict(list)
-    for x in range(len(graph_from)):
-        graph[graph_from[x]].append(graph_to[x])
-        graph[graph_to[x]].append(graph_from[x])
-    for idx in ids:
-        if idx == val:
-            break
-    q = collections.deque()
-    q.append((idx,-1))
-    step = 0
-    while q:
-        size = len(q)
-        for _ in range(size):
-            node, par = q.popleft()
-            for nxt in graph[node]:
-                if nxt != par:
-                    if ids[nxt-1] == val:
-                        return step+1
-                    q.append((nxt,node))
-        step += 1
-    return -1
+    
+    from queue import Queue
+    
+    ids.insert(0,0)
+    G = makeGraph(graph_from, graph_to)
+    visited = [0 for _ in range(graph_nodes+1)]
+    start = findColorNode(ids, val)
+    visited[start]=1
+    
+    Q = Queue()
+    
+    
+    now = start
+    Q.put((start,0))
+    results = []
+    while Q.qsize() : 
+
+        now,now_count = Q.get()
+    
+        if ids[now] == val and visited[now]==0:
+            results.append(now_count)
+    
+        visited[now]=1
+        for near in G[now] : 
+            if visited[near]==1 : 
+                continue
+            else : 
+                Q.put((near,now_count+1))
+
+    return min(results) if results else -1
 ```
 
-* Time Complexity : O(n)
-* Space Complexity : O(n)
+* Time Complexity : O(N+2E)
+* Space Complexity : O(N+E)
 
 
 
 ### The things I got
-
