@@ -144,6 +144,8 @@ Jupyter notebook & Jypyter lab
 
 [Find The Nearest Clone](HackerRank/FindTheNearestClone/FindTheNearestClone.md)  
 
+[☆ Decibinary Numbers](HackerRank/DecibinaryNumbers/DecibinaryNumbers.md)  
+
 
 
 ### Problem Solving  
