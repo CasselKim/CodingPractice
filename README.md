@@ -2,7 +2,7 @@
 
 #### practice with
 
-[Kaggle](https://www.kaggle.com/)  
+[Leetcode](https://leetcode.com/)  
 
 [Codewars](https://www.codewars.com/)  
 
@@ -20,7 +20,8 @@
 
 [프로그래머스](https://programmers.co.kr/learn/challenges)  
 
-Jupyter notebook & Jypyter lab
+
+## Leetcode
 
 
 
