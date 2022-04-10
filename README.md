@@ -28,6 +28,8 @@
 
 [682. Baseball Game](Leetcode/682_BaseballGame/682_BaseballGame.md)  
 
+[1_TwoSum](Leetcode/1_TwoSum/1_TwoSum.md)  
+
 　  
 
 ## HackerRank
