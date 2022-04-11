@@ -28,7 +28,11 @@
 
 [682. Baseball Game](Leetcode/682_BaseballGame/682_BaseballGame.md)  
 
-[1_TwoSum](Leetcode/1_TwoSum/1_TwoSum.md)  
+[1. TwoSum](Leetcode/1_TwoSum/1_TwoSum.md)  
+
+[5. Longest Palindromic Substring(유형)](Leetcode/5_LongestPalindromicSubstring/5_LongestPalindromicSubstring.md)  
+
+
 
 　  
 
