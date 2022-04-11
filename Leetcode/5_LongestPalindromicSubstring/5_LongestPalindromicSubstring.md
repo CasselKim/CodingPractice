@@ -9,72 +9,30 @@
 ```python
 class Solution:
     def longestPalindrome(self, s: str) -> str:
+        if len(s)==1 : return s
+        l,r = 0,0
+        longest = ''
+        for i in range(len(s)-1) : 
+            res1=''
+            if s[i]==s[i+1] : 
+                res1 = self.spread(s,i,i+1)
+            res2 = self.spread(s,i,i) 
+            res = max(res1,res2,key=len)
+            
+            if len(res) > len(longest) : 
+                longest = res
+        return longest
         
-        if len(s)==1 or len(s)==0: 
-            return s
-        stack = []
-        final_result = ''
-        input_s = list(s)
-        
-        stack.append(input_s[0])
-        for i in range(1,len(input_s)) : 
-            result = ''
-            
-            # bbbbb.. case
-            if i<len(input_s)-2 and input_s[i]==stack[-1] and input_s[i+1]==stack[-1]:
-                middle=''
-                temp = stack.copy()
-                middle+=input_s[i]+temp.pop()
-                j=i+1
-                while j<len(input_s) and input_s[j]==input_s[i] : 
-                    middle+=input_s[j]  
-                    j+=1
-                    
-                if j<len(input_s) and temp and temp[-1]==input_s[j] : 
-                    result += temp.pop()
-                    j+=1
-                    while temp and j<len(input_s) and input_s[j]==temp[-1] : 
-                        result+=temp.pop()
-                        j+=1
-                    result = result[::-1]+middle+result   
-                else : 
-                    result = middle
-            
-            # bab case
-            elif i<len(input_s)-1 and input_s[i+1]==stack[-1]:
-                middle = input_s[i]
-                temp = stack.copy()
-                result+=temp.pop()
-                j=i+2
-                while temp and j<len(input_s) and input_s[j]==temp[-1] : 
-                    result+=temp.pop()
-                    j+=1
-                result = result[::-1]+middle+result
-            
-            # bb case
-            elif input_s[i]==stack[-1] : 
-                temp = stack.copy()
-                result+=temp.pop()
-                j=i+1
-                while temp and j<len(input_s) and input_s[j]==temp[-1] : 
-                    result+=temp.pop()
-                    j+=1
-                result = result[::-1]+result
-            
-            stack.append(input_s[i])
-                
-            print("input_s[i] : {}, result : {}".format(input_s[i],result))
-            if len(final_result) < len(result) : 
-                final_result = result
-                    
-        return final_result if final_result else s[0]
-                    
-            
-            
+    def spread(self,string:str,l:int,r:int) -> str: 
+        while 0<=l and r<len(string) and string[l]==string[r] : 
+            l-=1
+            r+=1
+        palindromic = string[l+1:r]
+        return palindromic
 ```
 
 * Time Complexity : O(n) ~ O(n^2)
-* Space Complexity : O(2n)
+* Space Complexity : O(n)
 
 
 
