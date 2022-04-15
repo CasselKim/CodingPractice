@@ -32,7 +32,9 @@
 
 [5. Longest Palindromic Substring(유형)](Leetcode/5_LongestPalindromicSubstring/5_LongestPalindromicSubstring.md)  
 
-[9_PalindromeNumber](Leetcode/9_PalindromeNumber/9_PalindromeNumber.md)  
+[9. Palindrome Number](Leetcode/9_PalindromeNumber/9_PalindromeNumber.md)  
+
+[2. Add Two Numbers](Leetcode/2_AddTwoNumbers/2_AddTwoNumbers.md)  
 
 　  
 
