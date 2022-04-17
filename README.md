@@ -36,6 +36,8 @@
 
 [2. Add Two Numbers](Leetcode/2_AddTwoNumbers/2_AddTwoNumbers.md)  
 
+[6. Zigzag Conversion](Leetcode/6_ZigzagConversion/6_ZigzagConversion.md)  
+
 　  
 
 ## HackerRank
