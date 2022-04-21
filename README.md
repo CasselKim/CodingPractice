@@ -38,6 +38,8 @@
 
 [6. Zigzag Conversion](Leetcode/6_ZigzagConversion/6_ZigzagConversion.md)  
 
+[14. Longest Common Prefix](Leetcode/14_LongestCommonPrefix/14_LongestCommonPrefix.md)  
+
 　  
 
 ## HackerRank
