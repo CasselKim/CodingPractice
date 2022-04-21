@@ -38,7 +38,11 @@
 
 [6. Zigzag Conversion](Leetcode/6_ZigzagConversion/6_ZigzagConversion.md)  
 
+<<<<<<< HEAD
 [14. Longest Common Prefix](Leetcode/14_LongestCommonPrefix/14_LongestCommonPrefix.md)  
+=======
+[12. Integer to Roman](Leetcode/12_IntegerToRoman/12_IntegerToRoman.md)  
+>>>>>>> d529381189a2cb9e43c1e8bc9bbb18b78f0df06e
 
 　  
 
