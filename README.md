@@ -46,6 +46,8 @@
 
 [16. 3Sum Closest(yet)](Leetcode/16_3SumClosest/16_3SumClosest.md)  
 
+[20. Valid Parentheses](Leetcode/20_ValidParentheses/20_ValidParentheses.md)  
+
 
 
 ## HackerRank
