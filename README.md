@@ -48,6 +48,8 @@
 
 [20. Valid Parentheses](Leetcode/20_ValidParentheses/20_ValidParentheses.md)  
 
+[383. RansomNote](Leetcode/383_RansomNote/383_RansomNote.md)  
+
 
 
 ## HackerRank
