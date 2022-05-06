@@ -50,6 +50,8 @@
 
 [383. RansomNote](Leetcode/383_RansomNote/383_RansomNote.md)  
 
+[494. TargetSum(DP)](Leetcode/494_TargetSum/494_TargetSum.md)  
+
 
 
 ## HackerRank
