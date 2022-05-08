@@ -54,6 +54,8 @@
 
 [32. Longest Valid Parentheses(stack)](Leetcode/32_LongestValidParentheses/32_LongestValidParentheses.md)    
 
+[22. Generate Parentheses(dp)](Leetcode/22_Generate_Parentheses/22_Generate_Parentheses.md)   
+
 
 
 ## HackerRank
