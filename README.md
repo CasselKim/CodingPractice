@@ -52,6 +52,8 @@
 
 [494. TargetSum(DP)](Leetcode/494_TargetSum/494_TargetSum.md)  
 
+[32. Longest Valid Parentheses(stack)](Leetcode/32_LongestValidParentheses/32_LongestValidParentheses.md)    
+
 
 
 ## HackerRank
