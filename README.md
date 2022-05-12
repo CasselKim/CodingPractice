@@ -58,6 +58,8 @@
 
 [53. Maximum Subarray(DP)](Leetcode/53_MaximumSubarray/53_MaximumSubarray.md)  
 
+[46. Permutations](Leetcode/46_Permutations/46_Permutations.md)  
+
 
 
 ## HackerRank
