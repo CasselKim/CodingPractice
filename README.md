@@ -61,6 +61,8 @@
 
 [338. Counting Bits](Leetcode/338_CountingBits/338_CountingBits.md)  
 
+[1372. Longest ZigZag Path in a Binary Tree](Leetcode/1372_LongestZigZagPathinaBinaryTree/1372_LongestZigZagPathinaBinaryTree.md)  
+
 
 
 ## HackerRank
