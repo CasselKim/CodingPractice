@@ -67,6 +67,8 @@
 
 [45. Jump Game II](Leetcode/45_JumpGameII/45_JumpGameII.md)  
 
+[62. Unique Paths](Leetcode/62_UniquePaths/62_UniquePaths.md)  
+
 
 
 ## HackerRank
