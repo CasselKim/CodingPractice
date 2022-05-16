@@ -63,6 +63,8 @@
 
 [1372. Longest ZigZag Path in a Binary Tree](Leetcode/1372_LongestZigZagPathinaBinaryTree/1372_LongestZigZagPathinaBinaryTree.md)  
 
+[55. Jump Game](Leetcode/55_JumpGame/55_JumpGame.md)  
+
 
 
 ## HackerRank
