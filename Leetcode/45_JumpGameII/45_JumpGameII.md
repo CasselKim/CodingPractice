@@ -8,19 +8,22 @@
 
 ```python
 def jump(self, nums: List[int]) -> int:
-	dp = [0 for _ in range(len(nums))]
-	for i in range(len(nums)) : 
-		for j in range(1,nums[i]+1) : 
-			if i+j>=len(nums) : break
-			elif dp[i+j]!=0 and dp[i+j]<=dp[i]+1 : continue
-			else : 
-            	dp[i+j]=dp[i]+1
-	return dp[-1]
+    count=0
+    target=0
+    reach=0
+    for i in range(len(nums)-1) :
+        reach=max(reach-1,nums[i])
+        if target==i :
+            target=i+reach
+            count+=1
+	return count
 ```
 
-* Time Complexity : O(a*b)
-* Space Complexity : O(a)
+* Time Complexity : O(n)
+* Space Complexity : O(1)
 
 
 
 ### The things I got
+
+Brute Force를 찾은 다음 Optimize할 부분을 찾아보자!  
