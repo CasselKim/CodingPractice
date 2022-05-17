@@ -69,6 +69,8 @@
 
 [62. Unique Paths](Leetcode/62_UniquePaths/62_UniquePaths.md)  
 
+[64. Minimum Path Sum](Leetcode/64_MinimumPathSum/64_MinimumPathSum.md)  
+
 
 
 ## HackerRank
