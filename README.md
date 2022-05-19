@@ -73,6 +73,8 @@
 
 [64. Minimum Path Sum](Leetcode/64_MinimumPathSum/64_MinimumPathSum.md)  
 
+[72. Edit Distance](Leetcode/72_EditDistance/72_EditDistance.md)  
+
 
 
 ## HackerRank
