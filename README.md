@@ -73,7 +73,9 @@
 
 [64. Minimum Path Sum](Leetcode/64_MinimumPathSum/64_MinimumPathSum.md)  
 
-[72. Edit Distance](Leetcode/72_EditDistance/72_EditDistance.md)  
+[72. Edit Distance(DP)](Leetcode/72_EditDistance/72_EditDistance.md)  
+
+[7. Reverse Integer](Leetcode/7_ReverseInteger/7_ReverseInteger.md)  
 
 
 
