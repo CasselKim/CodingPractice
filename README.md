@@ -77,6 +77,8 @@
 
 [7. Reverse Integer](Leetcode/7_ReverseInteger/7_ReverseInteger.md)  
 
+[24. Swap Nodes In Pairs](Leetcode/24_SwapNodesInPairs/24_SwapNodesInPairs.md)  
+
 
 
 ## HackerRank
