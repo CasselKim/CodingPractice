@@ -81,6 +81,8 @@
 
 [322. Coin Change(DP)(⭐⭐⭐)](Leetcode/322_CoinChange/322_CoinChange.md)  
 
+[3. Longest Substring Without Repeating Characters](Leetcode/3_LongestSubstringWithoutRepeatingCharacters/3_LongestSubstringWithoutRepeatingCharacters.md)  
+
 
 
 ## HackerRank
