@@ -93,6 +93,10 @@
 
 [96. Unique Binary Search Trees(DP)](Leetcode/96_UniqueBinarySearchTrees/96_UniqueBinarySearchTrees.md)  
 
+[329. Longest Increasing Path In A Matrix(DFS)(⭐)](Leetcode/329_LongestIncreasingPathInAMatrix/329_LongestIncreasingPathInAMatrix.md)  
+
+
+
 
 
 ## HackerRank
