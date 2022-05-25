@@ -89,6 +89,8 @@
 
 [703. Kth Largest Element In A Stream](Leetcode/703_KthLargestElementInAStream/703_KthLargestElementInAStream.md)  
 
+[34. Find First And Last Position Of Element In Sorted Array(bisect)(⭐)](Leetcode/34_FindFirstAndLastPositionOfElementInSortedArray/34_FindFirstAndLastPositionOfElementInSortedArray.md)  
+
 
 
 ## HackerRank
