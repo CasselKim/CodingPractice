@@ -91,6 +91,8 @@
 
 [34. Find First And Last Position Of Element In Sorted Array(bisect)(⭐)](Leetcode/34_FindFirstAndLastPositionOfElementInSortedArray/34_FindFirstAndLastPositionOfElementInSortedArray.md)  
 
+[96. Unique Binary Search Trees(DP)](Leetcode/96_UniqueBinarySearchTrees/96_UniqueBinarySearchTrees.md)  
+
 
 
 ## HackerRank
