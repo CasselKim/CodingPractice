@@ -99,7 +99,7 @@
 
 [36. Valid Sudoku](Leetcode/36_ValidSudoku/36_ValidSudoku.md)  
 
-
+[69. Sqrt(x)](Leetcode/69_Sqrt(x)/69_Sqrt(x).md)  
 
 ## HackerRank
 
