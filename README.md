@@ -97,6 +97,8 @@
 
 [10. Regular Expression Matching(DP)(⭐⭐⭐)](Leetcode/10_RegularExpressionMatching/10_RegularExpressionMatching.md)  
 
+[36. Valid Sudoku](Leetcode/36_ValidSudoku/36_ValidSudoku.md)  
+
 
 
 ## HackerRank
