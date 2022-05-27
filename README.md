@@ -101,6 +101,8 @@
 
 [69. Sqrt(x)](Leetcode/69_Sqrt(x)/69_Sqrt(x).md)  
 
+[28. Implement strStr(String match)(⭐⭐⭐)](Leetcode/28_Implement_strStr()/28_Implement_strStr().md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
