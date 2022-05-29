@@ -103,6 +103,8 @@
 
 [28. Implement strStr(String match)(⭐⭐⭐)](Leetcode/28_Implement_strStr()/28_Implement_strStr().md)  
 
+[92. ReverseLinkedListII](Leetcode/92_ReverseLinkedListII/92_ReverseLinkedListII.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
