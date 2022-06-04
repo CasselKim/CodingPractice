@@ -117,6 +117,8 @@
 
 [232. Implement Queue using Stacks(⭐)](Leetcode/232_ImplementQueueUsingStacks/232_ImplementQueueUsingStacks.md)  
 
+[66. Plus One](Leetcode/66_PlusOne/66_PlusOne.md)   
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
