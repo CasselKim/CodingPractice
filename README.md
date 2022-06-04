@@ -113,7 +113,9 @@
 
 [1461. Check If a String Contains All Binary Codes of Size K](Leetcode/1461_Check_If_String_Contains/1461_Check_If_String_Contains.md)   
 
-[304. Range Sum Query 2D - Immutable](Leetcode/304_RangeSumQuery2D/304_RangeSumQuery2D.md)  
+[304. Range Sum Query 2D - Immutable(⭐⭐)](Leetcode/304_RangeSumQuery2D/304_RangeSumQuery2D.md)  
+
+[232. Implement Queue using Stacks(⭐)](Leetcode/232_ImplementQueueUsingStacks/232_ImplementQueueUsingStacks.md)  
 
 ## HackerRank
 
