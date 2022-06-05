@@ -119,6 +119,8 @@
 
 [66. Plus One](Leetcode/66_PlusOne/66_PlusOne.md)   
 
+[51. N-Queens](Leetcode/51_N-Queens/51_N-Queens.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
