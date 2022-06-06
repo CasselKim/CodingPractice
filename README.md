@@ -119,7 +119,9 @@
 
 [66. Plus One](Leetcode/66_PlusOne/66_PlusOne.md)   
 
-[51. N-Queens](Leetcode/51_N-Queens/51_N-Queens.md)  
+[51. N-Queens(⭐⭐⭐)](Leetcode/51_N-Queens/51_N-Queens.md)  
+
+[160. Intersection of Two Linked Lists(⭐⭐)](Leetcode/160_IntersectionOfTwoLinkedLists/160_IntersectionOfTwoLinkedLists.md)    
 
 ## HackerRank
 
