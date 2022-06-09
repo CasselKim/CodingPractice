@@ -123,6 +123,8 @@
 
 [160. Intersection of Two Linked Lists(⭐⭐)](Leetcode/160_IntersectionOfTwoLinkedLists/160_IntersectionOfTwoLinkedLists.md)    
 
+[167. Two Sum II - Input Array Is Sorted](Leetcode/167_TwoSumII_InputArrayIsSorted/167_TwoSumII_InputArrayIsSorted.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
