@@ -125,6 +125,8 @@
 
 [167. Two Sum II - Input Array Is Sorted](Leetcode/167_TwoSumII_InputArrayIsSorted/167_TwoSumII_InputArrayIsSorted.md)  
 
+[780. Reaching Points(⭐⭐)](Leetcode/780_reachingPoints/780_reachingPoints.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
