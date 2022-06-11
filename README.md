@@ -127,6 +127,8 @@
 
 [780. Reaching Points(⭐⭐)](Leetcode/780_reachingPoints/780_reachingPoints.md)  
 
+[1658. Minimum Operations To Reduce X To Zero](Leetcode/1658_MinimumOperationsToReduceXToZero/1658_MinimumOperationsToReduceXToZero.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
