@@ -127,7 +127,9 @@
 
 [780. Reaching Points(⭐⭐)](Leetcode/780_reachingPoints/780_reachingPoints.md)  
 
-[1658. Minimum Operations To Reduce X To Zero](Leetcode/1658_MinimumOperationsToReduceXToZero/1658_MinimumOperationsToReduceXToZero.md)  
+[1658. Minimum Operations To Reduce X To Zero(⭐)](Leetcode/1658_MinimumOperationsToReduceXToZero/1658_MinimumOperationsToReduceXToZero.md)  
+
+[1695. Maximum Erasure Value](Leetcode/1695_MaximumErasureValue/1695_MaximumErasureValue.md)  
 
 ## HackerRank
 
