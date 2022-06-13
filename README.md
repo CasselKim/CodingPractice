@@ -131,6 +131,8 @@
 
 [1695. Maximum Erasure Value](Leetcode/1695_MaximumErasureValue/1695_MaximumErasureValue.md)  
 
+[120. Triangle](Leetcode/120_Triangle/120_Triangle.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
