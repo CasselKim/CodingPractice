@@ -135,6 +135,8 @@
 
 [583. Delete Operation For Two Strings(LCS)(⭐⭐)](Leetcode/583_DeleteOperationForTwoStrings/583_DeleteOperationForTwoStrings.md)  
 
+[1048. Longest String Chain](Leetcode/1048_LongestStringChain/1048_LongestStringChain.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
