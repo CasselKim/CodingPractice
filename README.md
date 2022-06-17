@@ -137,6 +137,8 @@
 
 [1048. Longest String Chain](Leetcode/1048_LongestStringChain/1048_LongestStringChain.md)  
 
+[136. SingleNumber](Leetcode/136_SingleNumber/136_SingleNumber.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
