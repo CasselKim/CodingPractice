@@ -141,6 +141,8 @@
 
 [11. Container With Most Water](Leetcode/11_ContainerWithMostWater/11_ContainerWithMostWater.md)  
 
+[1268. Search Suggestions System](Leetcode/1268_SearchSuggestionsSystem/1268_SearchSuggestionsSystem.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
