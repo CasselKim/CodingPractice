@@ -143,6 +143,8 @@
 
 [1268. Search Suggestions System](Leetcode/1268_SearchSuggestionsSystem/1268_SearchSuggestionsSystem.md)  
 
+[1642. Furthest Building You Can Reach](Leetcode/1642_FurthestBuildingYouCanReach/1642_FurthestBuildingYouCanReach.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
