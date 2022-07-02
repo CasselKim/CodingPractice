@@ -145,7 +145,13 @@
 
 [1642. Furthest Building You Can Reach(⭐⭐)](Leetcode/1642_FurthestBuildingYouCanReach/1642_FurthestBuildingYouCanReach.md)  
 
-[215. Kth Largest Element In Array(⭐)](Leetcode/215_KthLargestElementInArray/215_KthLargestElementInArray.md)  
+[215. Kth Largest Element In Array(⭐)](Leetcode/215_KthLargestElementInArray/215_KthLargestElementInArray.md)   
+
+## BAEKJOON
+
+[1149. RGB거리](Baekjoon/1149/1149.md)  
+
+
 
 ## HackerRank
 
