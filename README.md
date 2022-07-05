@@ -155,6 +155,8 @@
 
 [11054. 가장 긴 바이토닉 부분 수열](Baekjoon/11054/11054.md)  
 
+[9461. 파도반 수열](Baekjoon/9461/9461.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
