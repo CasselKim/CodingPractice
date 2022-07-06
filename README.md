@@ -157,6 +157,8 @@
 
 [9461. 파도반 수열](Baekjoon/9461/9461.md)  
 
+[14501. 퇴사](Baekjoon/14501/14501.md)   
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
