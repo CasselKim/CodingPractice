@@ -21,6 +21,7 @@
 [프로그래머스](https://programmers.co.kr/learn/challenges)  
 
 [Tile Problem](https://casselkim.notion.site/17b35fd4104142a0a7ad9dfa4bcbac9c)  
+
 ## Leet Code
 
 [13. Roman to Integer](Leetcode/13_RomanToInteger/13_RomanToInteger.md)  
@@ -158,6 +159,8 @@
 [9461. 파도반 수열](Baekjoon/9461/9461.md)  
 
 [14501. 퇴사](Baekjoon/14501/14501.md)   
+
+[16926. 배열 돌리기1](Baekjoon/16926/16926.md)  
 
 ## HackerRank
 
