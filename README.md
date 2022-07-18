@@ -164,6 +164,8 @@
 
 [3190. 뱀](Baekjoon/3190/3190.md)  
 
+[14499. 주사위 굴리기](Baekjoon/14499/14499.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
