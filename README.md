@@ -166,6 +166,8 @@
 
 [14499. 주사위 굴리기](Baekjoon/14499/14499.md)  
 
+[14500. 테트로미노](Baekjoon/14500/14500.md)   
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
