@@ -168,6 +168,8 @@
 
 [14500. 테트로미노](Baekjoon/14500/14500.md)   
 
+[17140. 이차원 배열과 연산](Baekjoon/17140/17140.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
