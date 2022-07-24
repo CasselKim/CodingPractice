@@ -170,6 +170,8 @@
 
 [17140. 이차원 배열과 연산](Baekjoon/17140/17140.md)  
 
+[2469. 사다리 타기](Baekjoon/2469/2469.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
