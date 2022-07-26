@@ -172,6 +172,8 @@
 
 [2469. 사다리 타기](Baekjoon/2469/2469.md)  
 
+[1931. 회의실 배정](Baekjoon/1931/1931.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
