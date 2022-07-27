@@ -174,6 +174,8 @@
 
 [1931. 회의실 배정](Baekjoon/1931/1931.md)  
 
+[2293. 동전 1](Baekjoon/2293/2293.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
