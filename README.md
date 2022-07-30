@@ -178,6 +178,8 @@
 
 [2133. 타일 채우기](Baekjoon/2133/2133.md)  
 
+[1699. 제곱수의 합](Baekjoon/1699/1699.md)   
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
