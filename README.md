@@ -180,6 +180,8 @@
 
 [1699. 제곱수의 합](Baekjoon/1699/1699.md)   
 
+[11722. 가장 긴 감소하는 부분 수열](Baekjoon/11722/11722.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
