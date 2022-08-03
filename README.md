@@ -182,6 +182,8 @@
 
 [11722. 가장 긴 감소하는 부분 수열](Baekjoon/11722/11722.md)  
 
+[1254. 팰린드롬 만들기](Baekjoon/1254/1254.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
