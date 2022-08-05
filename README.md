@@ -186,6 +186,8 @@
 
 [11048. 이동하기](Baekjoon/11048/11048.md)   
 
+[1520. 내리막길](Baekjoon/1520/1520.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
