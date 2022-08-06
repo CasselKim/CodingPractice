@@ -188,6 +188,8 @@
 
 [1520. 내리막길](Baekjoon/1520/1520.md)  
 
+[2294. 동전 2](Baekjoon/2294/2294.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
