@@ -190,6 +190,8 @@
 
 [2294. 동전 2](Baekjoon/2294/2294.md)  
 
+[5525. IOIOI](Baekjoon/5525/5525.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
