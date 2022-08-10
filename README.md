@@ -192,6 +192,8 @@
 
 [5525. IOIOI](Baekjoon/5525/5525.md)  
 
+[14891. 톱니바퀴](Baekjoon/14891/14891.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
