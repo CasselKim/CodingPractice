@@ -194,6 +194,8 @@
 
 [14891. 톱니바퀴](Baekjoon/14891/14891.md)  
 
+[2789. 블랙잭](Baekjoon/2798/2798.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
