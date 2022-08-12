@@ -196,6 +196,8 @@
 
 [2789. 블랙잭](Baekjoon/2798/2798.md)  
 
+[2309. 일곱 난쟁이](Baekjoon/2309/2309.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
