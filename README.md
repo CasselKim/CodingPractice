@@ -198,6 +198,8 @@
 
 [2309. 일곱 난쟁이](Baekjoon/2309/2309.md)  
 
+[1436. 영화감독 숌](Baekjoon/1436/1436.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
