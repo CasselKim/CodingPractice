@@ -200,6 +200,8 @@
 
 [1436. 영화감독 숌](Baekjoon/1436/1436.md)  
 
+[9663. N-Queen](Baekjoon/9663/9663.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
