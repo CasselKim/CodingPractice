@@ -202,6 +202,8 @@
 
 [9663. N-Queen](Baekjoon/9663/9663.md)  
 
+[14502. 연구소](Baekjoon/14502/14502.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
