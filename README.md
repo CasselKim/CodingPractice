@@ -204,6 +204,8 @@
 
 [14502. 연구소](Baekjoon/14502/14502.md)  
 
+[1655. 가운데를 말해요](Baekjoon/1655/1655.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
