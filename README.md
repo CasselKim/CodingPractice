@@ -212,6 +212,8 @@
 
 [11660. 구간 합 구하기 5](Baekjoon/11660/11660.md)  
 
+[7562. 나이트의 이동](Baekjoon/7562/7562.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
