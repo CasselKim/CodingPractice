@@ -216,6 +216,8 @@
 
 [2468. 안전 영역](Baekjoon/2468/2468.md)  
 
+[16139. 인간-컴퓨터 상호작용](Baekjoon/16139/16139.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
