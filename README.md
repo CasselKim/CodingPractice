@@ -214,6 +214,8 @@
 
 [7562. 나이트의 이동](Baekjoon/7562/7562.md)  
 
+[2468. 안전 영역](Baekjoon/2468/2468.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
