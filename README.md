@@ -222,6 +222,8 @@
 
 [11403. 경로 찾기](Baekjoon/11403/11403.md)  
 
+[2292. 벌집](Baekjoon/2292/2292.md)   
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
