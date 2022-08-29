@@ -224,6 +224,8 @@
 
 [2292. 벌집](Baekjoon/2292/2292.md)   
 
+[2530. 인공지능 시계](Baekjoon/2530/2530.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
