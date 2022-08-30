@@ -226,6 +226,8 @@
 
 [2530. 인공지능 시계](Baekjoon/2530/2530.md)  
 
+[2096. 내려가기](Baekjoon/2096/2096.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
