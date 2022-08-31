@@ -228,6 +228,8 @@
 
 [2096. 내려가기](Baekjoon/2096/2096.md)  
 
+[9655. 돌 게임](Baekjoon/9655/9655.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
