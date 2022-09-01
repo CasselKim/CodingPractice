@@ -230,6 +230,8 @@
 
 [9655. 돌 게임](Baekjoon/9655/9655.md)  
 
+[1966. 프린터 큐](Baekjoon/1966/1966.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
