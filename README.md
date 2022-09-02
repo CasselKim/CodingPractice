@@ -232,6 +232,8 @@
 
 [1966. 프린터 큐](Baekjoon/1966/1966.md)  
 
+[1309. 동물원](Baekjoon/1309/1309.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
