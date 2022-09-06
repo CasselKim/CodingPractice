@@ -236,6 +236,8 @@
 
 [10986. 나머지 합](Baekjoon/10986/10986.md)  
 
+[2206. 벽 부수고 이동하기](Baekjoon/2206/2206.md)  
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
