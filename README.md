@@ -240,6 +240,8 @@
 
 [15684. 사다리 조작](Baekjoon/15684/15684.md)    
 
+[1874. 스택 수열](Baekjoon/1874/1874.md)  
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
