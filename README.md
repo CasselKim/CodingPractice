@@ -242,6 +242,8 @@
 
 [1874. 스택 수열](Baekjoon/1874/1874.md)  
 
+[1141. 접두사](Baekjoon/1141/1141.md)  
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
