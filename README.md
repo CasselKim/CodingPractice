@@ -20,7 +20,7 @@
 
 [프로그래머스](https://programmers.co.kr/learn/challenges)  
 
-[Tile Problem](https://casselkim.notion.site/17b35fd4104142a0a7ad9dfa4bcbac9c)   sas
+[Tile Problem](https://casselkim.notion.site/17b35fd4104142a0a7ad9dfa4bcbac9c)  
 
 ## Leet Code
 
@@ -243,6 +243,8 @@
 [1874. 스택 수열](Baekjoon/1874/1874.md)  
 
 [1141. 접두사](Baekjoon/1141/1141.md)  
+
+[1138. 한줄로 서기](Baekjoon/1138/1138.md)  
 
 ## Programmers
 
