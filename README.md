@@ -256,6 +256,8 @@
 
 [추석 트래픽](Programmers/17676/17676.md)  
 
+[등산코스 정하기](Programmers/118669/118669.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
