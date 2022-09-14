@@ -258,6 +258,8 @@
 
 [등산코스 정하기](Programmers/118669/118669.md)  
 
+[JadenCase 문자열 만들기](Programmers/12951/12951.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
