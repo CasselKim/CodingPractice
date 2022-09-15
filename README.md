@@ -260,6 +260,8 @@
 
 [JadenCase 문자열 만들기](Programmers/12951/12951.md)  
 
+[최솟값 만들기](Programmers/12941/12941.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
