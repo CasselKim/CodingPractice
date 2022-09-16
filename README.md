@@ -262,6 +262,8 @@
 
 [최솟값 만들기](Programmers/12941/12941.md)  
 
+[숫자의 표현](Programmers/12942/12942.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
