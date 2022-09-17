@@ -264,6 +264,8 @@
 
 [숫자의 표현](Programmers/12942/12942.md)  
 
+[점프와 순간 이동](Programmers/12980/12980.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
