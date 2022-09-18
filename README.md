@@ -266,6 +266,8 @@
 
 [점프와 순간 이동](Programmers/12980/12980.md)  
 
+[다음 큰 숫자](Programmers/12911/12911.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
