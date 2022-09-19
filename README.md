@@ -268,6 +268,8 @@
 
 [다음 큰 숫자](Programmers/12911/12911.md)  
 
+[짝지어 제거하기](Programmers/12973/12973.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
