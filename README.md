@@ -246,6 +246,8 @@
 
 [1138. 한줄로 서기](Baekjoon/1138/1138.md)  
 
+[11725. 트리의 부모 찾기](Baekjoon/11725/11725.md)   
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
