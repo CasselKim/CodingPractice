@@ -250,6 +250,8 @@
 
 [10610. 30](Baekjoon/10610/10610.md)  
 
+[11866. 유세푸스 문제 0](Baekjoon/11866/11866.md)  
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
