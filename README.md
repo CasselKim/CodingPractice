@@ -276,6 +276,8 @@
 
 [짝지어 제거하기](Programmers/12973/12973.md)  
 
+[후보키](Programmers/42890/42890.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
