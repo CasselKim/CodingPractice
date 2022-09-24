@@ -278,6 +278,8 @@
 
 [후보키](Programmers/42890/42890.md)  
 
+[수식 최대화](Programmers/67257/67257.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
