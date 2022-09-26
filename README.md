@@ -256,6 +256,8 @@
 
 [1753. 최단경로](Baekjoon/1753/1753.md)  
 
+[2805. 나무 자르기](Baekjoon/2805/2805.md)  
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
