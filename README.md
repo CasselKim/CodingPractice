@@ -258,6 +258,8 @@
 
 [2805. 나무 자르기](Baekjoon/2805/2805.md)  
 
+[1916. 최소비용 구하기](Baekjoon/1916/1916.md)  
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
