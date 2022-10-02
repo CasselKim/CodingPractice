@@ -294,6 +294,8 @@
 
 [오랜 기간 보호한 동물(1)](Programmers/59044/59044.md)   
 
+[입양 시각 구하기(1)](Programmers/59412/59412.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
