@@ -264,6 +264,8 @@
 
 [3036. 링](Baekjoon/3036/3036.md)  
 
+[1967. 트리의 지름](Baekjoon/1967/1967.md)  
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
