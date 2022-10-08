@@ -270,6 +270,8 @@
 
 [1110. 더하기 사이클](Baekjoon/1110/1110.md)  
 
+[2501. 약수 구하기](Baekjoon/2501/2501.md)  
+
 ## Programmers
 
 [두 큐 합 같게 만들기](Programmers/118667/README.md)    
