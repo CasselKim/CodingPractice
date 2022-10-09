@@ -308,6 +308,8 @@
 
 [오랜 기간 보호한 동물(2)](Programmers/59411/59411.md)  
 
+[있었는데요 없었습니다](Programmers/59043/59043.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
