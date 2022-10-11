@@ -312,6 +312,8 @@
 
 [루시와 엘라 찾기](Programmers/59046/59046.md)  
 
+[NULL 처리하기](Programmers/59410/59410.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
