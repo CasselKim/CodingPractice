@@ -316,6 +316,8 @@
 
 [NULL 처리하기](Programmers/59410/59410.md)  
 
+[동물 수 구하기](Programmers/59406/59406)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
