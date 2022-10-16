@@ -322,6 +322,8 @@
 
 [재구매가 일어난 상품과 회원 리스트 구하기](Programmers/131536/131536.md)  
 
+[동명 동물 수 찾기](Programmers/59041/59041.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
