@@ -324,6 +324,8 @@
 
 [동명 동물 수 찾기](Programmers/59041/59041.md)  
 
+[아픈 동물 찾기](Programmers/59036/59036.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
