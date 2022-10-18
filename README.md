@@ -326,6 +326,8 @@
 
 [아픈 동물 찾기](Programmers/59036/59036.md)  
 
+[이름에 el이 들어가는 동물 찾기](Programmers/59047/59047.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
