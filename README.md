@@ -328,6 +328,8 @@
 
 [이름에 el이 들어가는 동물 찾기](Programmers/59047/59047.md)  
 
+[고양이와 개는 몇 마리 있을까](Programmers/59040/59040.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
