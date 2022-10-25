@@ -334,6 +334,8 @@
 
 [3월에 태어난 여성 회원 목록 출력하기](Programmers/131120/131120.md)  
 
+[흉부외과 또는 일반외과 의사 목록 출력하기](Programmers/132203/132203.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
