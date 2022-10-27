@@ -338,6 +338,8 @@
 
 [롤케이크 자르기](Programmers/132265/132265.md)  
 
+[그룹별 조건에 맞는 식당 목록 출력하기](Programmers/131124/131124.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
