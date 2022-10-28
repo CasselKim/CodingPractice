@@ -340,6 +340,8 @@
 
 [그룹별 조건에 맞는 식당 목록 출력하기](Programmers/131124/131124.md)  
 
+[나이 정보가 없는 회원 수 구하기](Programmers/131528/131528.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
@@ -1040,7 +1042,6 @@
 <details>  
 <summary>October/2019</summary>  
 <div markdown="1">  
-
 [(10/01/19) [7 Kyu] Isograms](./C/191001/OnedayCoding.md)  
 
 [(10/02/19) [8 Kyu] Third Angle of a Triangle](./C/191002/OnedayCoding.md)  
@@ -1139,4 +1140,4 @@
 </div>  
 </details>  
 
-[Baekjoon/15684/15684.md]: 
+[Baekjoon/15684/15684.md]: 	
