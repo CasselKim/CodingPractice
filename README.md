@@ -346,6 +346,8 @@
 
 [성분으로 구분한 아이스크림 총 주문량](Programmers/133026/133026.md)  
 
+[과일로 만든 아이스크림 고르기](Programmers/133025/133025.md)   
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
