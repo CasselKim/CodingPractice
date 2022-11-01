@@ -348,6 +348,8 @@
 
 [과일로 만든 아이스크림 고르기](Programmers/133025/133025.md)   
 
+[진료과별 총 예약 횟수 출력하기](Programmers/132202/132202.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
