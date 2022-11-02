@@ -350,6 +350,8 @@
 
 [진료과별 총 예약 횟수 출력하기](Programmers/132202/132202.md)  
 
+[인기있는 아이스크림](Programmers/133024/133024.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
