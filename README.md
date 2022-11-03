@@ -352,6 +352,8 @@
 
 [인기있는 아이스크림](Programmers/133024/133024.md)  
 
+[강원도에 위치한 생산공장 목록 출력하기](Programmers/131112/131112.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
