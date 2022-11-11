@@ -364,6 +364,8 @@
 
 [연속 부분 수열 합의 개수](Programmers/131701/131701.md)  
 
+[가격대 별 상품 개수 구하기](Programmers/131530/131530.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
