@@ -366,6 +366,8 @@
 
 [가격대 별 상품 개수 구하기](Programmers/131530/131530.md)  
 
+[카테고리 별 상품 개수 구하기](Programmers/131529/131529.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
