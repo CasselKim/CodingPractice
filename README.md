@@ -368,6 +368,8 @@
 
 [카테고리 별 상품 개수 구하기](Programmers/131529/131529.md)  
 
+[스킬 트리](Programmers/49993/49993.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
