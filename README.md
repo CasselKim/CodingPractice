@@ -374,6 +374,8 @@
 
 [코딩 테스트 공부](Programmers/118668/118668.md)  
 
+[성격 유형 검사하기](Programmers/118666/118666.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
