@@ -376,6 +376,8 @@
 
 [성격 유형 검사하기](Programmers/118666/118666.md)  
 
+[신고 결과 받기](Programmers/92334/92334.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
