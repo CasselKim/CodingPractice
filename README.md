@@ -378,6 +378,8 @@
 
 [신고 결과 받기](Programmers/92334/92334.md)  
 
+[124 나라의 숫자](Programmers/12899/12899.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
