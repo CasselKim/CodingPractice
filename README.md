@@ -382,6 +382,8 @@
 
 [음양 더하기](Programmers/76501/76501.md)  
 
+[같은 숫자는 싫어](Programmers/12906/12906.md)  
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
