@@ -384,6 +384,8 @@
 
 [같은 숫자는 싫어](Programmers/12906/12906.md)  
 
+[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)    
+
 ## HackerRank
 
 ### The HackerRank Interview Preparation Kit
